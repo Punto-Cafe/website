@@ -14,7 +14,7 @@ const Home: NextPage = () => {
         <div style={{backgroundImage: `url(${background.src})`}} className={styles.container}>
             <Head>
                 <title>Punto Café Necochea</title>
-                <meta name="description" content="Punto Café Necochea Sitio y Menu"/>
+                <meta name="description" content="Cafeteria. Desayunos, almuerzos y meriendas"/>
                 <link rel="icon" href="/logo.ico"/>
             </Head>
 
