@@ -255,15 +255,19 @@ const menu: Menu = {
     Empanadas: [
         {
             title: "Empanada de pollo",
+            price: 140,
         },
         {
             title: "Empanada de carne",
+            price: 140,
         },
         {
             title: "Empanada de humita",
+            price: 140,
         },
         {
             title: "Empanada de verdura",
+            price: 140,
         },
         {
             title: "Empanadas de jamón y queso",
