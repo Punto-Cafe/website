@@ -128,6 +128,10 @@
     display: flex;
     gap: 8px;
     flex-direction: row;
+}
+
+.flexRow,
+.socialMedia {
     color: var(--light-blue)
 }
 
