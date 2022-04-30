@@ -8,11 +8,7 @@
     align-items: center;
     gap: 16px;
     width: 100%;
-    background-image: linear-gradient(
-            white 10%,
-            rgba(255, 255, 255, 0.6) 80%,
-            transparent
-    );
+    background-color: white;
 }
 
 .main {
@@ -25,12 +21,13 @@
 .footer {
     display: flex;
     padding: 24px;
-    gap: 8px;
+    gap: 24px;
     flex-direction: column;
     border-top: 1px solid var(--brown);
     justify-content: center;
     align-items: center;
     color: var(--light-blue);
+    width: 100%;
     background-color: var(--white-80);
 }
 
@@ -75,15 +72,33 @@
     border: 1px solid var(--brown);
     color: var(--brown);
     border-radius: 10px;
-    background-color: var(--white-50);
+    background-color: var(--white-80);
     gap: 4px;
     justify-content: space-between;
+}
+
+.section {
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
 }
 
 @media (max-width: 600px) {
     .grid {
         gap: 8px;
     }
+    .socialMediaContainer {
+        flex-direction: column;
+    }
+
+    .footer{
+        padding: 16px;
+        gap: 16px;
+    }
+}
+
+.map {
+    border: 0;
 }
 
 .price {
@@ -107,11 +122,22 @@
 }
 
 .flexRow,
-.itemTitle {
+.itemTitle,
+.socialMedia {
     text-decoration: none;
     display: flex;
     gap: 8px;
     flex-direction: row;
+    color: var(--light-blue)
+}
+
+.socialMedia {
+    justify-content: center;
+    width: fit-content;
+}
+
+.flexRow,
+.itemTitle {
     justify-content: space-between;
 }
 
@@ -122,4 +148,15 @@
 .glutenFreeLogo {
     height: 32px;
     width: 32px;
+}
+
+.footerTitle {
+    font-size: 24px;
+}
+
+.socialMediaContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    width: 100%;
 }
