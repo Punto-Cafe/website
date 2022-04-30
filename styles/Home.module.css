@@ -69,17 +69,30 @@
 }
 
 .card {
-    padding: 24px;
+    padding: 16px;
     display: flex;
     flex-direction: column;
     border: 1px solid var(--brown);
     color: var(--brown);
     border-radius: 10px;
     background-color: var(--white-50);
-    gap:16px;
+    gap: 4px;
+    justify-content: space-between;
 }
 
-.card *{
+@media (max-width: 600px) {
+    .grid {
+        gap: 8px;
+    }
+}
+
+.price {
+    text-align: end;
+    font-size: 20px;
+
+}
+
+.card * {
     margin: 0;
 }
 
@@ -93,12 +106,20 @@
     margin-left: 0.5rem;
 }
 
-.flexRow {
+.flexRow,
+.itemTitle {
     text-decoration: none;
     display: flex;
     gap: 8px;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
-    color: var(--light-blue);
+}
+
+.flexRow {
+    color: var(--light-blue)
+}
+
+.glutenFreeLogo {
+    height: 32px;
+    width: 32px;
 }
