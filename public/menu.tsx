@@ -10,7 +10,7 @@ interface Menu {
 }
 
 const menu: Menu = {
-    cafétería: [
+    cafetería: [
         {
             title: "Café",
             price: 160
