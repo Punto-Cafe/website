@@ -10,7 +10,6 @@ import facebookLogo from '../public/facebook.png'
 import mapsLogo from '../public/pin.png'
 import glutenFreeLogo from '../public/gluten_free_logo.png'
 import menu from '../public/menu'
-import {Fragment} from "react";
 
 const Home: NextPage = () => {
     return (
