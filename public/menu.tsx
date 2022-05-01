@@ -351,12 +351,12 @@ const menu: Menu = {
         {
             title: "Tarta + bebida",
             description: "Tarta de pollo al verdeo o jamón y muzzarella con agua, gaseosa o agua saborizada",
-            price: 380,
+            price: 550,
         },
         {
             title: "Tarta integral + bebida",
             description: "Tarta de zapallo y acelga o zapallito con agua, gaseosa o agua saborizada",
-            price: 430,
+            price: 600,
         },
     ]
 }
