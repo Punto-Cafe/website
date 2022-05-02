@@ -78,7 +78,7 @@ const menu: Menu = {
     Pastelería: [
         {
             title: "Tostadas",
-            description: "Tostadas con queso untable y mermelada/dulce de leche",
+            description: "Tostadas de pan blanco o negro con queso untable y mermelada/dulce de leche",
             price: 200
         },
         {
