@@ -1,0 +1,32 @@
+.willFadeUp {
+    opacity: 0;
+    animation: fade_out_show 1s;
+}
+
+.willFadeUp,
+.didFadeUp {
+    height: 100%;
+}
+
+.didFadeUp {
+    opacity: 1;
+    animation: fade_in_show 1s;
+}
+
+@keyframes fade_in_show {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fade_out_show {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}

@@ -10,6 +10,7 @@ import facebookLogo from '../public/facebook.png'
 import mapsLogo from '../public/pin.png'
 import glutenFreeLogo from '../public/gluten_free_logo.png'
 import menu from '../public/menu'
+import FadeIn from "../public/FadeIn";
 
 const Home: NextPage = () => {
     return (
@@ -34,24 +35,31 @@ const Home: NextPage = () => {
                         <div key={section} className={styles.section}>
                             <h2 className={styles.sectionHeader}>{section}</h2>
                             <div className={styles.grid}>
-                                {items.map(({title, price, description, glutenFree}) => (
-                                    <div className={styles.card} key={title}>
-                                        <div className={styles.itemTitle}>
-                                            <h2>{title}</h2>
-                                            {glutenFree &&
-                                                <div className={styles.glutenFreeLogo}>
-                                                    <Image
-                                                        src={glutenFreeLogo}
-                                                        alt="Gluten Free Logo"
-                                                        height="32px"
-                                                        width="32px"
-                                                        layout="fixed"
-                                                    />
+                                {items.map(({title, price, description, glutenFree, img}) => (
+                                    <div className={styles.cardContainer}
+                                         style={img ? {backgroundImage: `url(${img.src})`} : {}} key={title}>
+                                        <FadeIn>
+                                            <div className={styles.card}>
+                                                <div className={styles.cardTop}>
+                                                    <div className={styles.itemTitle}>
+                                                        <h2>{title}</h2>
+                                                        {glutenFree &&
+                                                            <div className={styles.glutenFreeLogo}>
+                                                                <Image
+                                                                    src={glutenFreeLogo}
+                                                                    alt="Gluten Free Logo"
+                                                                    height="32px"
+                                                                    width="32px"
+                                                                    layout="fixed"
+                                                                />
+                                                            </div>
+                                                        }
+                                                    </div>
+                                                    {description && <p>{description}</p>}
                                                 </div>
-                                            }
-                                        </div>
-                                        {description && <p>{description}</p>}
-                                        {price && <p className={styles.price}>${price}</p>}
+                                                {price && <p className={styles.price}>${price}</p>}
+                                            </div>
+                                        </FadeIn>
                                     </div>
                                 ))}
                             </div>
