@@ -66,6 +66,7 @@
 }
 
 .card {
+    width: 50%;
     padding: 16px;
     display: flex;
     flex-direction: column;
@@ -82,13 +83,22 @@
     gap: 4px;
 }
 
+.photo {
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .cardContainer {
     border: 1px solid var(--brown);
     color: var(--brown);
     border-radius: 10px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    display: flex;
 }
 
 .section {

@@ -35,27 +35,28 @@ const Home: NextPage = () => {
                             <h2 className={styles.sectionHeader}>{section}</h2>
                             <div className={styles.grid}>
                                 {items.map(({title, price, description, glutenFree, img}) => (
-                                    <div className={styles.cardContainer}
-                                         style={img ? {backgroundImage: `url(${img.src})`} : {}} key={title}>
+                                    <div className={styles.cardContainer} key={title}>
                                         <div className={styles.card}>
                                             <div className={styles.cardTop}>
                                                 <div className={styles.itemTitle}>
                                                     <h2>{title}</h2>
-                                                    {glutenFree &&
-                                                        <div className={styles.glutenFreeLogo}>
-                                                            <Image
-                                                                src={glutenFreeLogo}
-                                                                alt="Gluten Free Logo"
-                                                                height="32px"
-                                                                width="32px"
-                                                                layout="fixed"
-                                                            />
-                                                        </div>
-                                                    }
                                                 </div>
                                                 {description && <p>{description}</p>}
                                             </div>
                                             {price && <p className={styles.price}>${price}</p>}
+                                        </div>
+                                        <div className={styles.photo} style={img ? {backgroundImage: `url(${img.src})`} : {}} >
+                                            {glutenFree &&
+                                                <div className={styles.glutenFreeLogo}>
+                                                    <Image
+                                                        src={glutenFreeLogo}
+                                                        alt="Gluten Free Logo"
+                                                        height="32px"
+                                                        width="32px"
+                                                        layout="fixed"
+                                                    />
+                                                </div>
+                                            }
                                         </div>
                                     </div>
                                 ))}
