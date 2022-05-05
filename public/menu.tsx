@@ -21,7 +21,7 @@ const menu: Menu = {
         },
         {
             title: "Café cortado",
-            price: 180
+            price: 160
         },
         {
             title: "Café con leche",
@@ -370,7 +370,7 @@ const menu: Menu = {
         },
         {
             title: "Café cortado",
-            price: 220
+            price: 200
         },
         {
             title: "Café con leche",
