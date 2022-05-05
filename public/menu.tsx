@@ -10,36 +10,6 @@ interface Menu {
 }
 
 const menu: Menu = {
-    "Bebidas Para Llevar": [
-        {
-            title: "Café",
-            price: 200
-        },
-        {
-            title: "Café doble",
-            price: 220
-        },
-        {
-            title: "Café cortado",
-            price: 220
-        },
-        {
-            title: "Café con leche",
-            price: 240
-        },
-        {
-            title: "Lágrima",
-            price: 240
-        },
-        {
-            title: "Té",
-            price: 180
-        },
-        {
-            title: "Té con leche",
-            price: 200
-        },
-    ],
     cafetería: [
         {
             title: "Café",
@@ -387,6 +357,36 @@ const menu: Menu = {
             title: "Tarta integral + bebida",
             description: "Tarta de zapallo y acelga o zapallito con agua, gaseosa o agua saborizada",
             price: 600,
+        },
+    ],
+    "Bebidas Para Llevar": [
+        {
+            title: "Café",
+            price: 200
+        },
+        {
+            title: "Café doble",
+            price: 220
+        },
+        {
+            title: "Café cortado",
+            price: 220
+        },
+        {
+            title: "Café con leche",
+            price: 240
+        },
+        {
+            title: "Lágrima",
+            price: 240
+        },
+        {
+            title: "Té",
+            price: 180
+        },
+        {
+            title: "Té con leche",
+            price: 200
         },
     ]
 }
