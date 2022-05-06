@@ -388,6 +388,15 @@ const menu: Menu = {
             title: "Té con leche",
             price: 200
         },
+        {
+            title: "Promo café con leche + 2 medialunas",
+            price: 350,
+        },
+        {
+            title: "Promo café con leche + alfajor",
+            description: "café con leche y alfajor de chocolate clasico, chocolate blanco, fruta o maicena",
+            price: 340,
+        },
     ]
 }
 
