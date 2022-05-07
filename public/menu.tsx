@@ -205,31 +205,31 @@ const menu: Menu = {
         },
         {
             title: "Sandwich de jamón y queso",
-            description: "Sandwich de jamón y queso en pan francés, árabe o sacramento",
+            description: "Sandwich de jamón y queso en pan lactal",
             price: 400,
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
-            description: "Sandwich de jamón, queso y tomate en pan francés, árabe o sacramento",
+            description: "Sandwich de jamón, queso y tomate en pan lactal",
             price: 400,
             glutenFree: true,
         },
         {
             title: "Sandwich Primavera",
-            description: "Sandwich de jamón, queso, tomate y lechuga en pan francés, árabe o sacramento",
+            description: "Sandwich de jamón, queso, tomate y lechuga en pan lactal",
             price: 400,
             glutenFree: true,
         },
         {
             title: "Sandwich de queso, tomate, lechuga y huevo",
-            description: "Sandwich de queso, tomate, lechuga y huevo en pan francés, árabe o sacramento",
+            description: "Sandwich de queso, tomate, lechuga y huevo en pan lactal",
             price: 400,
             glutenFree: true,
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
-            description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan francés, árabe o sacramento",
+            description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan lactal",
             glutenFree: true,
             price: 400
         },
