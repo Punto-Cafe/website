@@ -10,6 +10,13 @@ interface Menu {
 }
 
 const menu: Menu = {
+    "Promos del dia": [
+        {
+            title: "café con leche + alfajor",
+            description: "café con leche y alfajor de chocolate clasico, chocolate blanco, fruta o maicena",
+            price: 300,
+        },
+    ],
     cafetería: [
         {
             title: "Café",
@@ -328,37 +335,6 @@ const menu: Menu = {
             price: 250,
         }
     ],
-    Promos: [
-        {
-            title: "café con leche + alfajor",
-            description: "café con leche y alfajor de chocolate clasico, chocolate blanco, fruta o maicena",
-            price: 300,
-        },
-        {
-            title: "café con leche + 2 medialunas",
-            price: 310,
-        },
-        {
-            title: "café con leche + tostadas",
-            description: "café con leche y tostadas con queso untable y mermelada",
-            price: 370,
-        },
-        {
-            title: "café con leche + tostado",
-            description: "café con leche y tostado de miga con jamón y queso",
-            price: 550,
-        },
-        {
-            title: "Tarta + bebida",
-            description: "Tarta de pollo al verdeo o jamón y muzzarella con agua, gaseosa o agua saborizada",
-            price: 550,
-        },
-        {
-            title: "Tarta integral + bebida",
-            description: "Tarta de zapallo y acelga o zapallito con agua, gaseosa o agua saborizada",
-            price: 600,
-        },
-    ],
     "Bebidas Para Llevar": [
         {
             title: "Café",
@@ -387,10 +363,6 @@ const menu: Menu = {
         {
             title: "Té con leche",
             price: 200
-        },
-        {
-            title: "Promo café con leche + 2 medialunas",
-            price: 350,
         },
         {
             title: "Promo café con leche + alfajor",
