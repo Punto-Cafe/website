@@ -47,6 +47,16 @@ const menu: Menu = {
             price: 250
         },
         {
+            title: "Latte avellana",
+            description: "Cafe con leche y sirope de avellana",
+            price: 300
+        },
+        {
+            title: "Latte caramelo",
+            description: "Cafe con leche y sirope de caramelo",
+            price: 300
+        },
+        {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema, y canela",
             price: 350
@@ -175,32 +185,32 @@ const menu: Menu = {
         },
         {
             title: "Sandwich de jamón y queso",
-            description: "Sandwich de jamón y queso en pan francés, árabe o sacramento",
+            description: "Sandwich de jamón y queso en pan pebete, árabe o sacramento",
             price: 370
         },
         {
             title: "Sandwich de jamón, queso y tomate",
-            description: "Sandwich de jamón, queso y tomate en pan francés, árabe o sacramento",
+            description: "Sandwich de jamón, queso y tomate en pan pebete, árabe o sacramento",
             price: 380
         },
         {
             title: "Sandwich Primavera",
-            description: "Sandwich de jamón, queso, tomate y lechuga en pan francés, árabe o sacramento",
+            description: "Sandwich de jamón, queso, tomate y lechuga en pan pebete, árabe o sacramento",
             price: 390
         },
         {
             title: "Sandwich de jamón crudo, queso y rúcula",
-            description: "Sandwich de jamón crudo, queso y rúcula en pan francés, árabe o sacramento",
+            description: "Sandwich de jamón crudo, queso y rúcula en pan pebete, árabe o sacramento",
             price: 440
         },
         {
             title: "Sandwich de queso, tomate, lechuga y huevo",
-            description: "Sandwich de queso, tomate, lechuga y huevo en pan francés, árabe o sacramento",
+            description: "Sandwich de queso, tomate, lechuga y huevo en pan pebete, árabe o sacramento",
             price: 370
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
-            description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan francés, árabe o sacramento",
+            description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan pebete, árabe o sacramento",
             price: 380
         },
         {
