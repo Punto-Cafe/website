@@ -51,7 +51,7 @@ const Home: NextPage = () => {
                                             }
                                         </div>
                                         {description && <p>{description}</p>}
-                                        {price && <p className={styles.price}>${price}</p>}
+                                        {price && <p className={styles.price}>{price}</p>}
                                     </div>
                                 ))}
                             </div>
