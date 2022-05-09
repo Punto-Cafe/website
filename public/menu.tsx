@@ -67,6 +67,11 @@ const menu: Menu = {
             price: 350
         },
         {
+            title: "Café Malibú",
+            description: "Café con Malibú, crema, y canela",
+            price: 350
+        },
+        {
             title: "café Con dulce de leche",
             price: 220
         },
@@ -145,7 +150,7 @@ const menu: Menu = {
             glutenFree: true,
         },
         {
-            title: "Sacramentos con jamon y queso",
+            title: "Mini Sacramento con jamon y queso",
             description: "Sacramentitos con jamon y queso (pack de 2)",
             price: 300,
             glutenFree: true,
@@ -186,32 +191,32 @@ const menu: Menu = {
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan pebete, árabe o sacramento",
-            price: 370
+            price: "Pebete/árabe 370, Sacramento 470"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan pebete, árabe o sacramento",
-            price: 380
+            price: "Pebete/árabe 380, Sacramento 480"
         },
         {
             title: "Sandwich Primavera",
             description: "Sandwich de jamón, queso, tomate y lechuga en pan pebete, árabe o sacramento",
-            price: 390
+            price: "Pebete/árabe 390, Sacramento 490"
         },
         {
             title: "Sandwich de jamón crudo, queso y rúcula",
             description: "Sandwich de jamón crudo, queso y rúcula en pan pebete, árabe o sacramento",
-            price: 440
+            price: "Pebete/árabe 440, Sacramento 540"
         },
         {
             title: "Sandwich de queso, tomate, lechuga y huevo",
             description: "Sandwich de queso, tomate, lechuga y huevo en pan pebete, árabe o sacramento",
-            price: 370
+            price: "Pebete/árabe 370, Sacramento 470"
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
             description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan pebete, árabe o sacramento",
-            price: 380
+            price: "Pebete/árabe 380, Sacramento 480"
         },
         {
             title: "Sandwich de jamón y queso",
