@@ -35,7 +35,7 @@ const Home: NextPage = () => {
                             <h2 className={styles.sectionHeader}>{section}</h2>
                             <div className={styles.grid}>
                                 {items.map(({title, price, description, glutenFree}) => (
-                                    <div className={styles.card} key={title}>
+                                    <div className={styles.card} key={`${title}${glutenFree}`}>
                                         <div className={styles.itemTitle}>
                                             <h2>{title}</h2>
                                             {glutenFree &&
