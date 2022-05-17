@@ -20,23 +20,23 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$160"
-        },
-        {
-            title: "Café doble",
             price: "$180"
         },
         {
-            title: "Café cortado",
-            price: "$160"
-        },
-        {
-            title: "Café con leche",
+            title: "Café doble",
             price: "$200"
         },
         {
-            title: "Café con crema",
+            title: "Café cortado",
+            price: "$180"
+        },
+        {
+            title: "Café con leche",
             price: "$220"
+        },
+        {
+            title: "Café con crema",
+            price: "$240"
         },
         {
             title: "Lágrima",
@@ -44,7 +44,7 @@ const menu: Menu = {
         },
         {
             title: "Capuchino",
-            price: "$250"
+            price: "$270"
         },
         {
             title: "Latte avellana",
@@ -73,12 +73,12 @@ const menu: Menu = {
         },
         {
             title: "café Con dulce de leche",
-            price: "$220"
+            price: "$250"
         },
         {
             title: "café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$220"
+            price: "$250"
         },
         {
             title: "Submarino",
