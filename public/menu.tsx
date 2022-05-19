@@ -238,7 +238,7 @@ const menu: Menu = {
         },
         {
             title: "Sandwich de jamón crudo, queso y rúcula",
-            description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan lactal",
+            description: "Sandwich de jamón crudo, queso y rúcula en pan lactal o árabe",
             glutenFree: true,
             price: "lactal $470, árabe $520"
         },
