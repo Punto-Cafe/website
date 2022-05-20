@@ -63,17 +63,17 @@ const menu: Menu = {
         },
         {
             title: "Café irlandés",
-            description: "Café con Whisky Irlandés, crema, y canela",
+            description: "Café con Whisky Irlandés, crema y canela",
             price: "$350"
         },
         {
             title: "Café Calypso",
-            description: "Café con Tía María, crema, y canela",
+            description: "Café con Tía María, crema y cacao",
             price: "$350"
         },
         {
             title: "Café Malibú",
-            description: "Café con Malibú, crema, y canela",
+            description: "Café con Malibú, crema y coco rayado",
             price: "$350"
         },
         {
@@ -113,11 +113,11 @@ const menu: Menu = {
             description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
             price: "$420",
         },
-        /*{
+        {
             title: "Desayuno frío",
             description: "Yogur + Granola + Mix de cereales + Frutas de estación",
             price: "$380",
-        },*/
+        },
     ],
     Pastelería: [
         {
