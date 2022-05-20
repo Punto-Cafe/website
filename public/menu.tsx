@@ -113,11 +113,11 @@ const menu: Menu = {
             description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
             price: "$420",
         },
-        {
+        /*{
             title: "Desayuno frío",
             description: "Yogur + Granola + Mix de cereales + Frutas de estación",
             price: "$380",
-        },
+        },*/
     ],
     Pastelería: [
         {
