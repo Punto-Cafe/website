@@ -16,6 +16,11 @@ const menu: Menu = {
             description: "café con leche y alfajor de chocolate clasico, chocolate blanco, fruta o maicena",
             price: "$300",
         },
+        {
+            title: "Desayuno clásico",
+            description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
+            price: "$600",
+        },
     ],
     cafetería: [
         {
@@ -97,6 +102,23 @@ const menu: Menu = {
             price: "$250"
         }
     ],
+    "Desayunos": [
+        {
+            title: "Desayuno punto café (para dos)",
+            description: "2 Infusiones + 2 exprimidos de naranja chicos + Tostado de miga de jamon y queso + 2 alfajores a elección",
+            price: "$1400",
+        },
+        {
+            title: "Desayuno caliente",
+            description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
+            price: "$420",
+        },
+        {
+            title: "Desayuno frío",
+            description: "Yogur + Granola + Mix de cereales + Frutas de estación",
+            price: "$380",
+        },
+    ],
     Pastelería: [
         {
             title: "Tostadas",
@@ -123,20 +145,29 @@ const menu: Menu = {
         },
         {
             title: "Lemon pie",
-            price: "$350"
-        }, {
+            price: "$400"
+        },
+        {
+            title: "Torta bombón",
+            price: "$400"
+        },
+        {
+            title: "Torta de ricota",
+            price: "$400"
+        },
+        {
             title: "Torta de manzana",
-            description: "Torta de símil crumble con manzana canela y crema",
-            price: "$350"
+            description: "Torta símil crumble con manzana canela y crema",
+            price: "$400"
         },
         {
             title: "Torta de Coco",
             description: "Torta de coco y dulce de leche",
-            price: "$350"
+            price: "$400"
         }, {
             title: "Pastafrola",
             description: "Pastafrola de dulce de membrillo",
-            price: "$350"
+            price: "$400"
         }, {
             title: "Tostadas",
             description: "Tostadas con queso untable y mermelada/dulce de leche",
@@ -169,17 +200,17 @@ const menu: Menu = {
         {
             title: "Brownie",
             glutenFree: true,
-            price: "$400"
+            price: "$450"
         }, {
             title: "Torta bombón",
             description: "Torta rellena de dulce de leche cubierta con chocolate",
             glutenFree: true,
-            price: "$400"
+            price: "$450"
         }, {
             title: "Pastafrola",
             description: "Pastafrola de dulce de membrillo",
             glutenFree: true,
-            price: "$400"
+            price: "$450"
         },
     ],
     Sandwiches: [
@@ -356,7 +387,7 @@ const menu: Menu = {
             price: "$250",
         }
     ],
-    "Bebidas Para Llevar": [
+    "Cafetería Para Llevar": [
         {
             title: "Café",
             price: "$200"
