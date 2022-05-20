@@ -161,6 +161,16 @@ const menu: Menu = {
             price: "$400"
         },
         {
+            title: "Brownie",
+            description: "Torta brownie con nueces",
+            price: "$400"
+        },
+        {
+            title: "Brownie con Helado",
+            description: "Torta brownie con nueces servido con una bocha de helado de americana y salsa de chocolate",
+            price: "$450"
+        },
+        {
             title: "Torta de Coco",
             description: "Torta de coco y dulce de leche",
             price: "$400"
