@@ -22,7 +22,7 @@ const menu: Menu = {
             price: "$600",
         },
     ],
-    "Desayunos": [
+    "Desayunos / Meriendas": [
         {
             title: "Desayuno punto café (para dos)",
             description: "2 Infusiones + 2 exprimidos de naranja chicos + Tostado de miga de jamon y queso + 2 alfajores a elección",
