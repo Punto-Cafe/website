@@ -22,6 +22,23 @@ const menu: Menu = {
             price: "$600",
         },
     ],
+    "Desayunos": [
+        {
+            title: "Desayuno punto café (para dos)",
+            description: "2 Infusiones + 2 exprimidos de naranja chicos + Tostado de miga de jamon y queso + 2 alfajores a elección",
+            price: "$1400",
+        },
+        {
+            title: "Desayuno caliente",
+            description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
+            price: "$420",
+        },
+        {
+            title: "Desayuno frío",
+            description: "Yogur + Granola con mix de cereales + Frutas de estación",
+            price: "$380",
+        },
+    ],
     cafetería: [
         {
             title: "Café",
@@ -101,23 +118,6 @@ const menu: Menu = {
             title: "Chocolatada",
             price: "$250"
         }
-    ],
-    "Desayunos": [
-        {
-            title: "Desayuno punto café (para dos)",
-            description: "2 Infusiones + 2 exprimidos de naranja chicos + Tostado de miga de jamon y queso + 2 alfajores a elección",
-            price: "$1400",
-        },
-        {
-            title: "Desayuno caliente",
-            description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
-            price: "$420",
-        },
-        {
-            title: "Desayuno frío",
-            description: "Yogur + Granola con mix de cereales + Frutas de estación",
-            price: "$380",
-        },
     ],
     Pastelería: [
         {
