@@ -115,7 +115,7 @@ const menu: Menu = {
         },
         {
             title: "Desayuno frío",
-            description: "Yogur + Granola + Mix de cereales + Frutas de estación",
+            description: "Yogur + Granola con mix de cereales + Frutas de estación",
             price: "$380",
         },
     ],
