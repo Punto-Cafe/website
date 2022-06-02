@@ -10,12 +10,7 @@ interface Menu {
 }
 
 const menu: Menu = {
-    "Promos del dia": [
-        {
-            title: "café con leche + alfajor",
-            description: "café con leche y alfajor de chocolate clasico, chocolate blanco, fruta o maicena",
-            price: "$300",
-        },
+    "Promos del dia": [       
         {
             title: "Desayuno clásico",
             description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
@@ -135,13 +130,14 @@ const menu: Menu = {
             price: "$180"
         },
         {
-            title: "Alfajor de chocolate",
+            title: "Alfajor",
             description: "Alfajor de chocolate negro, chocolate blanco o relleno de fruta",
-            price: "$180"
+            price: "$200"
         },
         {
-            title: "Alfajor de maicena",
-            price: "$160"
+            title: "Conito",
+            description: "Conito relleno de dulce de leche, cubierto con chocolate negro",
+            price: "$200"
         },
         {
             title: "Lemon pie",
