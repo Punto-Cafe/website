@@ -140,8 +140,8 @@ const menu: Menu = {
             price: "$200"
         },
         {
-            title: "Lemon pie",
-            price: "$400"
+           // title: "Lemon pie",
+           // price: "$400"
         },
         {
             title: "Torta bombón",
