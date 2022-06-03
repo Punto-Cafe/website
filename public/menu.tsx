@@ -140,20 +140,7 @@ const menu: Menu = {
             price: "$200"
         },
         {
-           // title: "Lemon pie",
-           // price: "$400"
-        },
-        {
             title: "Torta bombón",
-            price: "$400"
-        },
-        {
-            title: "Torta de ricota",
-            price: "$400"
-        },
-        {
-            title: "Torta de manzana",
-            description: "Torta símil crumble con manzana canela y crema",
             price: "$400"
         },
         {
@@ -170,11 +157,13 @@ const menu: Menu = {
             title: "Torta de Coco",
             description: "Torta de coco y dulce de leche",
             price: "$400"
-        }, {
+        }, 
+        {
             title: "Pastafrola",
             description: "Pastafrola de dulce de membrillo",
             price: "$400"
-        }, {
+        }, 
+        {
             title: "Tostadas",
             description: "Tostadas con queso untable y mermelada/dulce de leche",
             price: "$250",
