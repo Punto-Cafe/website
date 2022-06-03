@@ -140,8 +140,23 @@ const menu: Menu = {
             price: "$200"
         },
         {
+            title: "Budin",
+            description: "Porcion de budin de limon o chocolate",
+            price: "$250"
+        },
+        {
             title: "Torta bombón",
             price: "$400"
+        },
+        {
+            title: "Torta de manzana",
+            description: "Porcion de torta de manzana",
+            price: "$370"
+        },
+        {
+            title: "Pastafrola",
+            description: "Porcion de Pastafrola",
+            price: "$350"
         },
         {
             title: "Brownie",
