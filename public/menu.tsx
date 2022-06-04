@@ -174,11 +174,6 @@ const menu: Menu = {
             price: "$400"
         }, 
         {
-            title: "Pastafrola",
-            description: "Pastafrola de dulce de membrillo",
-            price: "$400"
-        }, 
-        {
             title: "Tostadas",
             description: "Tostadas con queso untable y mermelada/dulce de leche",
             price: "$250",
