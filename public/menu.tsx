@@ -149,8 +149,8 @@ const menu: Menu = {
             price: "$400"
         },
         {
-            title: "Torta de manzana",
-            description: "Porcion de torta de manzana",
+            title: "Tarta de manzana",
+            description: "Porcion de tarta de manzana",
             price: "$370"
         },
         {
