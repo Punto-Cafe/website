@@ -197,17 +197,6 @@ const menu: Menu = {
             glutenFree: true,
         },
         {
-            title: "Alfajor de chocolate",
-            description: "Alfajor de chocolate clasico",
-            glutenFree: true,
-            price: "$200"
-        },
-        {
-            title: "Alfajor de maicena",
-            glutenFree: true,
-            price: "$200"
-        },
-        {
             title: "Brownie",
             glutenFree: true,
             price: "$450"
