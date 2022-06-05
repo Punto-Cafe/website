@@ -122,7 +122,7 @@ const menu: Menu = {
         },
         {
             title: "Medialuna",
-            description: "Medialuna dulce o salada",
+            description: "Medialuna dulce",
             price: "$70"
         },
         {
@@ -146,6 +146,7 @@ const menu: Menu = {
         },
         {
             title: "Tarta bombón",
+            description: "Tarta de dulce de leche con cobertura de chocolate negro",
             price: "$400"
         },
         {
