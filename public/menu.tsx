@@ -26,7 +26,7 @@ const menu: Menu = {
         {
             title: "Desayuno caliente",
             description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
-            price: "$420",
+            price: "$450",
         },
         {
             title: "Desayuno frío",
