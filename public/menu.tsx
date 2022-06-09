@@ -16,6 +16,16 @@ const menu: Menu = {
             description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
             price: "$600",
         },
+       {
+            title: "Combo 1",
+            description: "Infusión + Porción de Pasta Frola o Porción de Tarta de manzana",
+            price: "$480",
+        },
+         {
+            title: "Combo 2",
+            description: "Infusión + Porción de Budin (Limón o Chocolate)",
+            price: "$460",
+        },
     ],
     "Desayunos / Meriendas": [
         {
