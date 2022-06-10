@@ -12,9 +12,9 @@ interface Menu {
 const menu: Menu = {
     "Promos del dia": [       
         {
-            title: "Desayuno clásico",
-            description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
-            price: "$600",
+            title: "Promo Alfajor",
+            description: "Cafe / Cafe cortado + Alfajor (Negro, Blanco o Fruta)",
+            price: "$380",
         },
        {
             title: "Combo 1",
@@ -32,6 +32,11 @@ const menu: Menu = {
             title: "Desayuno punto café (para dos)",
             description: "2 Infusiones + 2 exprimidos de naranja chicos + Tostado de miga de jamon y queso + 2 alfajores a elección",
             price: "$1400",
+        },
+         {
+            title: "Desayuno clásico",
+            description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
+            price: "$600",
         },
         {
             title: "Desayuno caliente",
