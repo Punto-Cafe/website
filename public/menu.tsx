@@ -13,7 +13,7 @@ const menu: Menu = {
     "Promos del dia": [       
         {
             title: "Promo Alfajor",
-            description: "Cafe / Cafe cortado + Alfajor (Negro, Blanco o Fruta)",
+            description: "Café / Café cortado + Alfajor (Negro, Blanco o Fruta)",
             price: "$380",
         },
        {
