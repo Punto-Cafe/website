@@ -52,65 +52,65 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$180"
+            price: "$200"
         },
         {
             title: "Café doble",
-            price: "$200"
-        },
-        {
-            title: "Café cortado",
-            price: "$180"
-        },
-        {
-            title: "Café con leche",
             price: "$220"
         },
         {
-            title: "Café con crema",
-            price: "$240"
-        },
-        {
-            title: "Lágrima",
+            title: "Café cortado",
             price: "$200"
         },
         {
+            title: "Café con leche",
+            price: "$240"
+        },
+        {
+            title: "Café con crema",
+            price: "$260"
+        },
+        {
+            title: "Lágrima",
+            price: "$220"
+        },
+        {
             title: "Capuchino",
-            price: "$270"
+            price: "$290"
         },
         {
             title: "Latte avellana",
             description: "Cafe con leche y sirope de avellana",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema y canela",
-            price: "$350"
+            price: "$370"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María, crema y cacao",
-            price: "$350"
+            price: "$370"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú, crema y coco rayado",
-            price: "$350"
+            price: "$370"
         },
         {
-            title: "café Con dulce de leche",
-            price: "$250"
+            title: "Café Con dulce de leche",
+            price: "$270"
         },
         {
-            title: "café de menta",
+            title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$250"
+            price: "$270"
         },
         {
             title: "Submarino",
