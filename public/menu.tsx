@@ -299,7 +299,12 @@ const menu: Menu = {
         },
         {
             title: "Tarta de zapallito",
-            description: "Tarta de zappallito verde con cebolla, morron rojo, huevo y muzzarella, en maza integral",
+            description: "Tarta de zapallito verde con cebolla, morron rojo, huevo y muzzarella, en maza integral",
+            price: "$450"
+        },
+        {
+            title: "Tarta de capresse",
+            description: "Tarta de muzarella, albahaca y tomate cherry",
             price: "$450"
         },
         {
