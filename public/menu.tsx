@@ -19,12 +19,12 @@ const menu: Menu = {
        {
             title: "Combo 1",
             description: "Infusión + Porción de Pasta Frola o Porción de Tarta de manzana",
-            price: "$480",
+            price: "$470",
         },
          {
             title: "Combo 2",
             description: "Infusión + Porción de Budin (Limón o Chocolate)",
-            price: "$460",
+            price: "$450",
         },
     ],
     "Desayunos / Meriendas": [
