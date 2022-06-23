@@ -201,6 +201,18 @@ const menu: Menu = {
             price: "90",
             glutenFree: true,
         },
+           {
+            title: "Alfajor de Chocolate",
+            description: "Alfajor de Chocolate relleno de dulce de leche",
+            price: "250",
+            glutenFree: true,
+        },
+           {
+            title: "Alfajor de Maicena",
+            description: "Alfajor de Maicena relleno de dulce de leche",
+            price: "220",
+            glutenFree: true,
+        },
         {
             title: "Mini Sacramento con jamon y queso",
             description: "Sacramentitos con jamon y queso (pack de 2)",
