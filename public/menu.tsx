@@ -160,11 +160,6 @@ const menu: Menu = {
             price: "$250"
         },
         {
-            title: "Tarta bombón",
-            description: "Tarta de dulce de leche con cobertura de chocolate negro",
-            price: "$400"
-        },
-        {
             title: "Tarta de manzana",
             description: "Porcion de tarta de manzana",
             price: "$270"
