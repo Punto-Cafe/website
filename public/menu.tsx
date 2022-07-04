@@ -16,6 +16,11 @@ const menu: Menu = {
             description: "Infusión + Alfajor (Negro, Blanco o Fruta)",
             price: "$400",
         },
+        {
+            title: "Promo Tostado",
+            description: "Infusión + Tostado de miga",
+            price: "$560",
+        },
        ],
     "Desayunos / Meriendas": [
         {
