@@ -18,8 +18,8 @@ const menu: Menu = {
         },
         {
             title: "Promo Tostado",
-            description: "Cafe o Cortado en Jarrito + Tostado de miga",
-            price: "$590",
+            description: "Bebida (Gaseosa / Agua Saborizada) + Arabe de jamon y queso",
+            price: "$570",
         },
        ],
     "Desayunos / Meriendas": [
