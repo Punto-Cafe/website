@@ -19,7 +19,7 @@ const menu: Menu = {
         {
             title: "Promo Tostado",
             description: "Cafe o Cortado en Jarrito + Tostado de miga",
-            price: "$560",
+            price: "$590",
         },
        ],
     "Desayunos / Meriendas": [
