@@ -396,19 +396,19 @@ const menu: Menu = {
         },
         {
             title: "Café doble",
-            price: "$250"
+            price: "$240"
         },
         {
             title: "Café cortado",
-            price: "$250"
+            price: "$240"
         },
         {
             title: "Café con leche",
-            price: "$250"
+            price: "$240"
         },
         {
             title: "Lágrima",
-            price: "$250"
+            price: "$240"
         },
         {
             title: "Té",
