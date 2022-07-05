@@ -392,7 +392,7 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$250"
+            price: "$240"
         },
         {
             title: "Café doble",
