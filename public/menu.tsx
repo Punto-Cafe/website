@@ -21,6 +21,11 @@ const menu: Menu = {
             description: "Bebida (Gaseosa / Agua Saborizada) + Arabe de jamon y queso",
             price: "$590",
         },
+          {
+            title: "Promo Chocotorta",
+            description: "Cafe / Cortado Jarrito + Porción de Chocotorta",
+            price: "$550",
+        },
        ],
     "Desayunos / Meriendas": [
         {
