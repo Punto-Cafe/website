@@ -19,7 +19,7 @@ const menu: Menu = {
         {
             title: "Promo Tostado",
             description: "Bebida (Gaseosa / Agua Saborizada) + Arabe de jamon y queso",
-            price: "$570",
+            price: "$590",
         },
        ],
     "Desayunos / Meriendas": [
@@ -36,7 +36,7 @@ const menu: Menu = {
         {
             title: "Desayuno caliente",
             description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
-            price: "$480",
+            price: "$500",
         },
      ],
     cafetería: [
@@ -123,7 +123,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable/manteca y mermelada/dulce de leche",
-            price: "$280"
+            price: "$300"
         },
         {
             title: "Medialuna",
@@ -167,7 +167,7 @@ const menu: Menu = {
         {
             title: "Brownie con Helado",
             description: "Torta brownie con nueces servido con una bocha de helado de americana y salsa de chocolate",
-            price: "$450"
+            price: "$470"
         },
        {
             title: "Tostadas",
@@ -224,38 +224,38 @@ const menu: Menu = {
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan pebete, árabe o sacramento",
-            price: "Pebete $370, árabe $410, Sacramento $470"
+            price: "Pebete $400, árabe $440, Sacramento $500"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan pebete, árabe o sacramento",
-            price: "Pebete $380, árabe $420, Sacramento $480"
+            price: "Pebete $410, árabe $450, Sacramento $510"
         },
         {
             title: "Sandwich de jamón crudo y queso",
             description: "Sandwich de jamón crudo y queso en pan pebete, árabe o sacramento",
-            price: "Pebete $440, árabe $480, Sacramento $540"
+            price: "Pebete $470, árabe $520, Sacramento $570"
         },
         {
             title: "Sandwich de queso, tomate y huevo",
             description: "Sandwich de queso, tomate y huevo en pan pebete, árabe o sacramento",
-            price: "Pebete $370, árabe $410, Sacramento $470"
+            price: "Pebete $400, árabe $440, Sacramento $500"
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
             description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan pebete, árabe o sacramento",
-            price: "Pebete $380, árabe $420, Sacramento $480"
+            price: "Pebete $450, árabe $500, Sacramento $540"
         },
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan lactal o árabe",
-            price: "lactal $400, árabe $480",
+            price: "lactal $450, árabe $520",
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan lactal",
-            price: "lactal $410, árabe $490",
+            price: "lactal $460, árabe $530",
             glutenFree: true,
         },
         {
@@ -268,19 +268,19 @@ const menu: Menu = {
             title: "Sandwich de jamón crudo y queso",
             description: "Sandwich de jamón crudo y queso en pan lactal o árabe",
             glutenFree: true,
-            price: "lactal $470, árabe $550"
+            price: "lactal $510, árabe $590"
         },
         {
             title: "Sandwich de queso, tomate y huevo",
             description: "Sandwich de queso, tomate y huevo en pan lactal",
-            price: "lactal $400, árabe $450",
+            price: "lactal $450, árabe $500",
             glutenFree: true,
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
             description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan lactal",
             glutenFree: true,
-            price: "lactal $410, árabe $460"
+            price: "lactal $470, árabe $520"
         },
     ],
     Tartas: [
