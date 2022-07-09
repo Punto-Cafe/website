@@ -24,7 +24,7 @@ const menu: Menu = {
           {
             title: "Promo Chocotorta",
             description: "Cafe / Cortado Jarrito + Porción de Chocotorta",
-            price: "$550",
+            price: "$590",
         },
        ],
     "Desayunos / Meriendas": [
@@ -47,81 +47,81 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$220"
+            price: "$230"
         },
         {
             title: "Café doble",
-            price: "$250"
+            price: "$260"
         },
         {
             title: "Café cortado",
-            price: "$220"
+            price: "$230"
         },
         {
             title: "Café con leche",
-            price: "$250"
+            price: "$260"
         },
         {
             title: "Café con crema",
-            price: "$280"
+            price: "$290"
         },
         {
             title: "Lágrima",
-            price: "$220"
+            price: "$230"
         },
         {
             title: "Capuchino",
-            price: "$320"
+            price: "$330"
         },
         {
             title: "Latte avellana",
             description: "Cafe con leche y sirope de avellana",
-            price: "$350"
+            price: "$360"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$350"
+            price: "$360"
         },
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema y canela",
-            price: "$400"
+            price: "$420"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María, crema y cacao",
-            price: "$400"
+            price: "$420"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú, crema y coco rayado",
-            price: "$400"
+            price: "$420"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$270"
+            price: "$290"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$270"
+            price: "$290"
         },
         {
             title: "Submarino",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Té",
-            price: "$140"
+            price: "$170"
         },
         {
             title: "Té con leche",
-            price: "$160"
+            price: "$190"
         },
         {
             title: "Chocolatada",
-            price: "$270"
+            price: "$320"
         }
     ],
     Pastelería: [
@@ -157,7 +157,7 @@ const menu: Menu = {
         {
             title: "Tarta de manzana",
             description: "Porcion de tarta de manzana",
-            price: "$300"
+            price: "$330"
         },
         {
             title: "Pastafrola",
@@ -166,25 +166,25 @@ const menu: Menu = {
         },
         {
             title: "Cheesecake",
-            price: "$380"
+            price: "$420"
         },
         {
             title: "Chocotorta",
-            price: "$380"
+            price: "$420"
         },
          {
             title: "Lemon Pie",
-            price: "$380"
+            price: "$420"
         },
         {
             title: "Brownie",
             description: "Torta brownie con nueces",
-            price: "$400"
+            price: "$440"
         },
         {
             title: "Brownie con Helado",
             description: "Torta brownie con nueces servido con una bocha de helado de americana y salsa de chocolate",
-            price: "$470"
+            price: "$520"
         },
        {
             title: "Tostadas",
@@ -213,7 +213,7 @@ const menu: Menu = {
         {
             title: "Mini Sacramento con jamon y queso",
             description: "Sacramentitos con jamon y queso (pack de 2)",
-            price: "$350",
+            price: "$400",
             glutenFree: true,
         },
         {
@@ -236,7 +236,7 @@ const menu: Menu = {
         {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$400"
+            price: "$420"
         },
         {
             title: "Sandwich de jamón y queso",
@@ -409,23 +409,23 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$240"
+            price: "$260"
         },
         {
             title: "Café doble",
-            price: "$240"
+            price: "$260"
         },
         {
             title: "Café cortado",
-            price: "$240"
+            price: "$260"
         },
         {
             title: "Café con leche",
-            price: "$240"
+            price: "$260"
         },
         {
             title: "Lágrima",
-            price: "$240"
+            price: "$260"
         },
         {
             title: "Té",
