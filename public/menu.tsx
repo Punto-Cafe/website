@@ -254,7 +254,7 @@ const menu: Menu = {
             price: "Pebete $470, árabe $520, Sacramento $570"
         },
         {
-            title: "Sandwich de queso, tomate y huevo",
+            title: "Sandwich de queso, tomate",
             description: "Sandwich de queso, tomate y huevo en pan pebete, árabe o sacramento",
             price: "Pebete $400, árabe $440, Sacramento $500"
         },
@@ -288,7 +288,7 @@ const menu: Menu = {
             price: "lactal $510, árabe $590"
         },
         {
-            title: "Sandwich de queso, tomate y huevo",
+            title: "Sandwich de queso, tomate",
             description: "Sandwich de queso, tomate y huevo en pan lactal",
             price: "lactal $450, árabe $500",
             glutenFree: true,
