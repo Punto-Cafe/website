@@ -254,8 +254,8 @@ const menu: Menu = {
             price: "Pebete $470, árabe $520, Sacramento $570"
         },
         {
-            title: "Sandwich de queso, tomate",
-            description: "Sandwich de queso, tomate y huevo en pan pebete, árabe o sacramento",
+            title: "Sandwich de queso y tomate",
+            description: "Sandwich de queso y tomate en pan pebete, árabe o sacramento",
             price: "Pebete $400, árabe $440, Sacramento $500"
         },
         {
@@ -276,20 +276,14 @@ const menu: Menu = {
             glutenFree: true,
         },
         {
-            title: "Sandwich Primavera",
-            description: "Sandwich de jamón, queso y tomate en pan lactal",
-            price: "lactal $420, árabe $470",
-            glutenFree: true,
-        },
-        {
             title: "Sandwich de jamón crudo y queso",
             description: "Sandwich de jamón crudo y queso en pan lactal o árabe",
             glutenFree: true,
             price: "lactal $510, árabe $590"
         },
         {
-            title: "Sandwich de queso, tomate",
-            description: "Sandwich de queso, tomate y huevo en pan lactal",
+            title: "Sandwich de queso y tomate",
+            description: "Sandwich de queso y tomate en pan lactal",
             price: "lactal $450, árabe $500",
             glutenFree: true,
         },
