@@ -19,7 +19,7 @@ const menu: Menu = {
         {
             title: "Promo Tostado",
             description: "Bebida (Gaseosa / Agua Saborizada) + Arabe de jamon y queso",
-            price: "$590",
+            price: "$620",
         },
           {
             title: "Promo Chocotorta",
@@ -304,29 +304,29 @@ const menu: Menu = {
         {
             title: "Tarta de zapallo y acelga",
             description: "Tarta con base de acelga con cebolla, cubierta con zapallo y muzzarella, en maza integral",
-            price: "$450"
+            price: "$490"
         },
         {
             title: "Tarta de zapallito",
             description: "Tarta de zapallito verde con cebolla, morron rojo, huevo y muzzarella, en maza integral",
-            price: "$450"
+            price: "$490"
         },
         {
             title: "Tarta de capresse",
             description: "Tarta de muzarella, albahaca y tomate cherry",
-            price: "$450"
+            price: "$490"
         },
         {
             title: "Tarta de jamón y muzzarella",
-            price: "$400"
+            price: "$490"
         },
         {
             title: "Tarta de pollo al verdeo",
-            price: "$400"
+            price: "$490"
         },
         {
             title: "Tarta de zapallito",
-            price: "$450",
+            price: "$490",
             glutenFree: true,
         },
     ],
