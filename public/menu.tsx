@@ -23,15 +23,15 @@ const menu: Menu = {
         },
           {
             title: "Promo Chocotorta",
-            description: "Cafe / Cortado Jarrito + Porción de Chocotorta",
-            price: "$590",
+            description: "2 Cafe / Cortado Jarrito + Porción de Chocotorta",
+            price: "$900",
         },
        ],
     "Desayunos / Meriendas": [
         {
             title: "Desayuno punto café (para dos)",
             description: "2 Infusiones + 2 exprimidos de naranja chicos + Tostado de miga de jamon y queso + 2 alfajores a elección",
-            price: "$1500",
+            price: "$1650",
         },
          {
             title: "Desayuno clásico",
@@ -152,7 +152,7 @@ const menu: Menu = {
         {
             title: "Budin",
             description: "Porcion de budin de Limon o Naranja",
-            price: "$270"
+            price: "$290"
         },
         {
             title: "Tarta de manzana",
@@ -170,21 +170,21 @@ const menu: Menu = {
         },
         {
             title: "Chocotorta",
-            price: "$420"
+            price: "$570"
         },
          {
             title: "Lemon Pie",
-            price: "$420"
+            price: "$500"
         },
         {
             title: "Brownie",
             description: "Torta brownie con nueces",
-            price: "$440"
+            price: "$580"
         },
         {
             title: "Brownie con Helado",
             description: "Torta brownie con nueces servido con una bocha de helado de americana y salsa de chocolate",
-            price: "$520"
+            price: "$620"
         },
        {
             title: "Tostadas",
@@ -195,7 +195,7 @@ const menu: Menu = {
         {
             title: "Medialuna",
             description: "Medialuna dulce",
-            price: "90",
+            price: "100",
             glutenFree: true,
         },
            {
