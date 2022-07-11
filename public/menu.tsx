@@ -166,7 +166,7 @@ const menu: Menu = {
         },
         {
             title: "Cheesecake",
-            price: "$420"
+            price: "$570"
         },
         {
             title: "Chocotorta",
