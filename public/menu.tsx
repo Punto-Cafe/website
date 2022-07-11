@@ -12,8 +12,8 @@ interface Menu {
 const menu: Menu = {
     "Promos del dia": [       
         {
-            title: "Promo Alfajor",
-            description: "Infusión + Alfajor (Negro, Blanco o Fruta)",
+            title: "Promo Conito",
+            description: "Infusión + Conito relleno de dulce de leche cubierto con chocolate negro",
             price: "$400",
         },
         {
