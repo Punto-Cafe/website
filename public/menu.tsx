@@ -152,7 +152,7 @@ const menu: Menu = {
         {
             title: "Budin",
             description: "Porcion de budin de Limon o Naranja",
-            price: "$290"
+            price: "300"
         },
         {
             title: "Tarta de manzana",
