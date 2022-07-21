@@ -22,9 +22,9 @@ const menu: Menu = {
             price: "$620",
         },
           {
-            title: "Promo Chocotorta",
-            description: "2 Cafe / Cortado Jarrito + Porción de Chocotorta",
-            price: "$900",
+            title: "Promo Budín",
+            description: "Infusión + Budín (Limón o Naranja)",
+            price: "$500",
         },
        ],
     "Desayunos / Meriendas": [
