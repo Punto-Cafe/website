@@ -23,7 +23,7 @@ const menu: Menu = {
         },
           {
             title: "Promo Budín",
-            description: "Infusión + Budín (Limón o Naranja)",
+            description: "Infusión + porción de Budín (Limón o Naranja)",
             price: "$500",
         },
        ],
