@@ -160,11 +160,6 @@ const menu: Menu = {
             price: "$330"
         },
         {
-            title: "Pastafrola",
-            description: "Porcion de Pastafrola",
-            price: "$270"
-        },
-        {
             title: "Cheesecake",
             price: "$570"
         },
