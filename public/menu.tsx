@@ -14,7 +14,7 @@ const menu: Menu = {
         {
             title: "Promo Conito",
             description: "Infusión + Conito relleno de dulce de leche cubierto con chocolate negro",
-            price: "$400",
+            price: "$420",
         },
         {
             title: "Promo Tostado",
@@ -24,104 +24,104 @@ const menu: Menu = {
           {
             title: "Promo Budín",
             description: "Infusión + porción de Budín (Limón o Naranja)",
-            price: "$500",
+            price: "$520",
         },
        ],
     "Desayunos / Meriendas": [
         {
             title: "Desayuno punto café (para dos)",
             description: "2 Infusiones + 2 exprimidos de naranja chicos + Tostado de miga de jamon y queso + 2 alfajores a elección",
-            price: "$1650",
+            price: "$1670",
         },
          {
             title: "Desayuno clásico",
             description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
-            price: "$630",
+            price: "$650",
         },
         {
             title: "Desayuno caliente",
             description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
-            price: "$500",
+            price: "$520",
         },
      ],
     cafetería: [
         {
             title: "Café",
-            price: "$230"
+            price: "$250"
         },
         {
             title: "Café doble",
-            price: "$260"
+            price: "$280"
         },
         {
             title: "Café cortado",
-            price: "$230"
+            price: "$250"
         },
         {
             title: "Café con leche",
-            price: "$260"
+            price: "$280"
         },
         {
             title: "Café con crema",
-            price: "$290"
+            price: "$300"
         },
         {
             title: "Lágrima",
-            price: "$230"
+            price: "$250"
         },
         {
             title: "Capuchino",
-            price: "$330"
+            price: "$350"
         },
         {
             title: "Latte avellana",
             description: "Cafe con leche y sirope de avellana",
-            price: "$360"
+            price: "$380"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$360"
+            price: "$380"
         },
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema y canela",
-            price: "$420"
+            price: "$440"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María, crema y cacao",
-            price: "$420"
+            price: "$440"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú, crema y coco rayado",
-            price: "$420"
+            price: "$440"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$290"
+            price: "$300"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$290"
+            price: "$300"
         },
         {
             title: "Submarino",
-            price: "$320"
+            price: "$340"
         },
         {
             title: "Té",
-            price: "$170"
-        },
-        {
-            title: "Té con leche",
             price: "$190"
         },
         {
+            title: "Té con leche",
+            price: "$220"
+        },
+        {
             title: "Chocolatada",
-            price: "$320"
+            price: "$340"
         }
     ],
     Pastelería: [
@@ -393,31 +393,31 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$260"
+            price: "$280"
         },
         {
             title: "Café doble",
-            price: "$260"
+            price: "$280"
         },
         {
             title: "Café cortado",
-            price: "$260"
+            price: "$280"
         },
         {
             title: "Café con leche",
-            price: "$260"
+            price: "$280"
         },
         {
             title: "Lágrima",
-            price: "$260"
+            price: "$280"
         },
         {
             title: "Té",
-            price: "$180"
+            price: "$200"
         },
         {
             title: "Té con leche",
-            price: "$200"
+            price: "$220"
         },
        ]
 }
