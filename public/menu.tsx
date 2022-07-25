@@ -389,12 +389,7 @@ const menu: Menu = {
             description: "Batido de Helado de americana o chocolate y leche (500cc)",
             price: "$380",
         },
-        {
-            title: "Yogur",
-            description: "Vaso de yogur (400cc)",
-            price: "$250",
-        }
-    ],
+  ],
     "Cafetería Para Llevar": [
         {
             title: "Café",
