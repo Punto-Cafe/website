@@ -214,12 +214,12 @@ const menu: Menu = {
         {
             title: "Brownie",
             glutenFree: true,
-            price: "$480"
+            price: "$580"
         }, {
             title: "Tarta bombón",
             description: "Tarta rellena de dulce de leche cubierta con chocolate",
             glutenFree: true,
-            price: "$450"
+            price: "$550"
         }, {
             title: "Pastafrola",
             description: "Pastafrola de dulce de membrillo",
