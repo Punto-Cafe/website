@@ -12,9 +12,9 @@ interface Menu {
 const menu: Menu = {
     "Promos del dia": [       
         {
-            title: "Promo Conito",
-            description: "Infusión + Conito relleno de dulce de leche cubierto con chocolate negro",
-            price: "$420",
+            title: "Promo medialunas",
+            description: "Infusión + 2 Medialunas",
+            price: "$400",
         },
         {
             title: "Promo Tostado",
@@ -41,7 +41,7 @@ const menu: Menu = {
         {
             title: "Desayuno caliente",
             description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
-            price: "$520",
+            price: "$550",
         },
      ],
     cafetería: [
@@ -378,16 +378,16 @@ const menu: Menu = {
         }, {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
-            price: "$300",
+            price: "$350",
         }, {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$350",
+            price: "$380",
         },
         {
             title: "Milkshake",
             description: "Batido de Helado de americana o chocolate y leche (500cc)",
-            price: "$380",
+            price: "$420",
         },
   ],
     "Cafetería Para Llevar": [
