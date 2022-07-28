@@ -155,9 +155,9 @@ const menu: Menu = {
             price: "300"
         },
         {
-            title: "Tarta de manzana",
-            description: "Porcion de tarta de manzana",
-            price: "$330"
+            title: "Crumble de manzana",
+            description: ,
+            price: "$420"
         },
         {
             title: "Cheesecake",
@@ -188,9 +188,9 @@ const menu: Menu = {
             glutenFree: true,
         },
         {
-            title: "Medialuna",
+            title: "Medialunas x2",
             description: "Medialuna dulce",
-            price: "100",
+            price: "220",
             glutenFree: true,
         },
            {
