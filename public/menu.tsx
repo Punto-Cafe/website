@@ -14,7 +14,7 @@ const menu: Menu = {
         {
             title: "Promo medialunas",
             description: "Infusión + 2 Medialunas",
-            price: "$400",
+            price: "$420",
         },
         {
             title: "Promo Tostado",
@@ -389,31 +389,31 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$280"
+            price: "$300"
         },
         {
             title: "Café doble",
-            price: "$280"
+            price: "$300"
         },
         {
             title: "Café cortado",
-            price: "$280"
+            price: "$300"
         },
         {
             title: "Café con leche",
-            price: "$280"
+            price: "$300"
         },
         {
             title: "Lágrima",
-            price: "$280"
+            price: "$300"
         },
         {
             title: "Té",
-            price: "$200"
+            price: "$250"
         },
         {
             title: "Té con leche",
-            price: "$220"
+            price: "$280"
         },
        ]
 }
