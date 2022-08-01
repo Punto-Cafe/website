@@ -155,8 +155,7 @@ const menu: Menu = {
             price: "300"
         },
         {
-            title: "Crumble de manzana",
-            description: ,
+            title:"Crumble de manzana",
             price: "$420"
         },
         {
@@ -369,13 +368,10 @@ const menu: Menu = {
         },
         {
             title: "Limonada - Vaso",
-            description: "Limonada con menta y jengibre (400cc)",
+            description: "Limón y agua (400cc)",
             price: "$250",
-        }, {
-            title: "Limonada - Jarra",
-            description: "Limonada opcional con menta y jengibre (litro)",
-            price: "$500",
-        }, {
+        }, 
+        {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
             price: "$350",
