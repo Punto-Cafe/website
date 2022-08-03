@@ -142,12 +142,12 @@ const menu: Menu = {
         {
             title: "Alfajor",
             description: "Alfajor de chocolate negro, chocolate blanco o relleno de fruta",
-            price: "$200"
+            price: "$220"
         },
         {
             title: "Conito",
             description: "Conito relleno de dulce de leche, cubierto con chocolate negro",
-            price: "$200"
+            price: "$220"
         },
         {
             title: "Budin",
