@@ -21,11 +21,6 @@ const menu: Menu = {
             description: "Bebida (Gaseosa / Agua Saborizada) + Arabe de jamon y queso",
             price: "$620",
         },
-          {
-            title: "Promo Cheescake",
-            description: "Infusión + Cheescake",
-            price: "$800",
-        },
        ],
     "Desayunos / Meriendas": [
         {
