@@ -123,7 +123,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable/manteca y mermelada/dulce de leche",
-            price: "$330"
+            price: "$380"
         },
         {
             title: "Medialuna",
@@ -178,7 +178,7 @@ const menu: Menu = {
        {
             title: "Tostadas",
             description: "Tostadas con queso untable y mermelada/dulce de leche",
-            price: "$350",
+            price: "$400",
             glutenFree: true,
         },
         {
