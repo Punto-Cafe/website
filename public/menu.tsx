@@ -137,17 +137,12 @@ const menu: Menu = {
         {
             title: "Alfajor",
             description: "Alfajor de chocolate negro, chocolate blanco o relleno de fruta",
-            price: "$220"
+            price: "$240"
         },
            {
             title: "Alfajor Vegano",
             description: "Alfajor de chocolate relleno de pasta de maní o alfajor maicena relleno de untable de almendras",
             price: "$320"
-        },
-        {
-            title: "Conito",
-            description: "Conito relleno de dulce de leche, cubierto con chocolate negro",
-            price: "$220"
         },
         {
             title: "Budin",
