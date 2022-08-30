@@ -364,7 +364,7 @@ const menu: Menu = {
         {
             title: "Limonada - Vaso",
             description: "Limón y agua (400cc)",
-            price: "$250",
+            price: "$350",
         }, 
         {
             title: "Licuado al agua",
