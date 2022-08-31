@@ -287,29 +287,29 @@ const menu: Menu = {
         {
             title: "Tarta de zapallo y acelga",
             description: "Tarta con base de acelga con cebolla, cubierta con zapallo y muzzarella, en maza integral",
-            price: "$630"
+            price: "$600"
         },
         {
             title: "Tarta de zapallito",
             description: "Tarta de zapallito verde con cebolla, morron rojo, huevo y muzzarella, en maza integral",
-            price: "$630"
+            price: "$600"
         },
         {
             title: "Tarta de capresse",
             description: "Tarta de muzarella, albahaca y tomate cherry",
-            price: "$630"
+            price: "$600"
         },
         {
             title: "Tarta de jamón y muzzarella",
-            price: "$560"
+            price: "$600"
         },
         {
             title: "Tarta de pollo al verdeo",
-            price: "$560"
+            price: "$600"
         },
         {
             title: "Tarta de zapallito",
-            price: "$490",
+            price: "$700",
             glutenFree: true,
         },
     ],
