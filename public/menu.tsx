@@ -367,6 +367,11 @@ const menu: Menu = {
             price: "$350",
         }, 
         {
+            title: "Limonada - Jarra",
+            description: "Limón y agua (litro)",
+            price: "$700",
+        },
+        {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
             price: "$350",
