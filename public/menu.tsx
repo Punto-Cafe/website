@@ -317,19 +317,21 @@ const menu: Menu = {
     Empanadas: [
         {
             title: "Empanada de pollo",
-            price: "$140",
+            price: "$150",
         },
         {
             title: "Empanada de carne",
-            price: "$140",
+            price: "$150",
         },
         {
-            title: "Empanada de humita",
-            price: "$140",
+            title: "Empanada de espinaca",
+            description: "Masa de remolacha con relleno de espinaca con cebolla, zanahoria y muzzarella", 
+            price: "$150",
         },
         {
-            title: "Empanada de verdura",
-            price: "$140",
+            title: "Empanada de berenjena",
+            description: "Masa de espinaca con relleno de berenjena con ajo, cebolla y muzzarella",
+            price: "$150",
         },
         {
             title: "Empanadas de jamón y queso",
