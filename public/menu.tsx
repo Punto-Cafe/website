@@ -23,12 +23,8 @@ const menu: Menu = {
         },
        ],
     "Desayunos / Meriendas": [
+      
         {
-            title: "Desayuno punto café (para dos)",
-            description: "2 Infusiones + 2 exprimidos de naranja chicos + Tostado de miga de jamon y queso + 2 alfajores a elección",
-            price: "$1670",
-        },
-         {
             title: "Desayuno clásico",
             description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
             price: "$650",
@@ -225,7 +221,12 @@ const menu: Menu = {
         {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$420"
+            price: "$460"
+        },
+        {
+            title: "Tostado de molde",
+            description: "Tostado en pan de salvado con jamón y queso",
+            price: "$460"
         },
         {
             title: "Sandwich de jamón y queso",
