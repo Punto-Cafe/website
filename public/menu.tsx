@@ -350,16 +350,16 @@ const menu: Menu = {
         {
             title: "Agua",
             description: "Agua con o sin gas",
-            price: "$200",
+            price: "$220",
         },
         {
             title: "Agua saborizada",
             description: "Agua saborizada de uva, pomelo, manzana, naranja, pera",
-            price: "$220",
+            price: "$250",
         }, {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero, Coca Cola Light, Fanta, Sprite, Sprite Zero, Schweppes pomelo",
-            price: "$220",
+            price: "$250",
         }, {
             title: "Exprimido",
             price: "$350",
@@ -377,46 +377,42 @@ const menu: Menu = {
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
-            price: "$350",
+            price: "$380",
         }, {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$380",
+            price: "$430",
         },
         {
             title: "Milkshake",
             description: "Batido de Helado de americana o chocolate y leche (500cc)",
-            price: "$420",
+            price: "$460",
         },
   ],
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$300"
-        },
-        {
-            title: "Café doble",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Café cortado",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Café con leche",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Lágrima",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Té",
-            price: "$250"
+            price: "$270"
         },
         {
             title: "Té con leche",
-            price: "$280"
+            price: "$300"
         },
          {
             title: "Promo medialunas",
