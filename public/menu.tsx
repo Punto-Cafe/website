@@ -138,7 +138,7 @@ const menu: Menu = {
            {
             title: "Alfajor Vegano",
             description: "Alfajor de chocolate relleno de pasta de maní o alfajor maicena relleno de untable de almendras",
-            price: "$320"
+            price: "$350"
         },
         {
             title: "Budin",
