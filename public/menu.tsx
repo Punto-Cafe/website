@@ -14,12 +14,12 @@ const menu: Menu = {
         {
             title: "Promo medialunas",
             description: "Infusión + 2 Medialunas",
-            price: "$420",
+            price: "$450",
         },
         {
             title: "Promo Tostado",
             description: "Bebida (Gaseosa / Agua Saborizada) + Arabe de jamon y queso",
-            price: "$620",
+            price: "$720",
         },
        ],
     "Desayunos / Meriendas": [
@@ -27,7 +27,7 @@ const menu: Menu = {
         {
             title: "Desayuno clásico",
             description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
-            price: "$650",
+            price: "$700",
         },
         {
             title: "Desayuno caliente",
@@ -38,65 +38,65 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$250"
+            price: "$270"
         },
         {
             title: "Café doble",
-            price: "$280"
-        },
-        {
-            title: "Café cortado",
-            price: "$250"
-        },
-        {
-            title: "Café con leche",
-            price: "$280"
-        },
-        {
-            title: "Café con crema",
             price: "$300"
         },
         {
+            title: "Café cortado",
+            price: "$270"
+        },
+        {
+            title: "Café con leche",
+            price: "$300"
+        },
+        {
+            title: "Café con crema",
+            price: "$350"
+        },
+        {
             title: "Lágrima",
-            price: "$250"
+            price: "$270"
         },
         {
             title: "Capuchino",
-            price: "$350"
+            price: "$370"
         },
         {
             title: "Latte avellana",
             description: "Cafe con leche y sirope de avellana",
-            price: "$380"
+            price: "$400"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$380"
+            price: "$400"
         },
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema y canela",
-            price: "$440"
+            price: "$460"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María, crema y cacao",
-            price: "$440"
+            price: "$460"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú, crema y coco rayado",
-            price: "$440"
+            price: "$460"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Submarino",
@@ -104,11 +104,11 @@ const menu: Menu = {
         },
         {
             title: "Té",
-            price: "$190"
+            price: "$250"
         },
         {
             title: "Té con leche",
-            price: "$220"
+            price: "$270"
         },
         {
             title: "Chocolatada",
@@ -124,11 +124,11 @@ const menu: Menu = {
         {
             title: "Medialuna",
             description: "Medialuna dulce",
-            price: "$80"
+            price: "$100"
         },
         {
             title: "Medialuna con jamón & Queso",
-            price: "$220"
+            price: "$250"
         },
         {
             title: "Alfajor",
@@ -421,7 +421,7 @@ const menu: Menu = {
          {
             title: "Promo medialunas",
             description: "Infusión + 2 Medialunas",
-            price: "$450",
+            price: "$500",
         },
        ]
 }
