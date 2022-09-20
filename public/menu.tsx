@@ -13,12 +13,12 @@ const menu: Menu = {
     "Promos del dia": [       
         {
             title: "Promo medialunas",
-            description: "Infusión + 2 Medialunas",
-            price: "$450",
+            description: "Infusión + 2 Medialunas con jamon y queso",
+            price: "$350",
         },
         {
             title: "Promo Tostado",
-            description: "Bebida (Gaseosa / Agua Saborizada) + Arabe de jamon y queso",
+            description: "Bebida (Gaseosa / Agua Saborizada) + Tostado de jamon y queso",
             price: "$720",
         },
        ],
