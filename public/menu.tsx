@@ -414,11 +414,7 @@ const menu: Menu = {
             title: "Té con leche",
             price: "$300"
         },
-         {
-            title: "Promo medialunas",
-            description: "Infusión + 2 Medialunas",
-            price: "$500",
-        },
+         
        ]
 }
 
