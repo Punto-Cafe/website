@@ -16,11 +16,7 @@ const menu: Menu = {
             description: "Infusión + 2 Medialunas con jamon y queso",
             price: "$350",
         },
-        {
-            title: "Promo Tostado",
-            description: "Bebida (Gaseosa / Agua Saborizada) + Tostado de jamon y queso",
-            price: "$720",
-        },
+     
        ],
     "Desayunos / Meriendas": [
       
