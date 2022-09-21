@@ -10,27 +10,29 @@ interface Menu {
 }
 
 const menu: Menu = {
-    "Promos del dia": [       
+    "Promos Desayuno o Merienda": [       
         {
-            title: "Promo medialunas",
+            title: "Promo Infantil 1",
+            description: "Juguito Baggio + 1 Medialunas con jamon y queso",
+            price: "$250",
+        },
+         {
+            title: "Promo Infantil 2",
+            description: "Juguito Baggio + 2 triangulos de tostado de miga",
+            price: "$250",
+        },
+       {
+            title: "Promo Medialunas",
             description: "Infusión + 2 Medialunas con jamon y queso",
             price: "$350",
         },
-     
+         {
+            title: "Promo Tostado",
+            description: "1 infunsión + 1 tostado de miga",
+            price: "$350",
+        },
        ],
-    "Desayunos / Meriendas": [
-      
-        {
-            title: "Desayuno clásico",
-            description: "Infusión + Exprimido chico + 2 medialunas con jamón y queso",
-            price: "$700",
-        },
-        {
-            title: "Desayuno caliente",
-            description: "Infusión + Exprimido de naranja chico + Dos tostadas con queso untable y mermelada/dulce de leche",
-            price: "$600",
-        },
-     ],
+   
     cafetería: [
         {
             title: "Café",
