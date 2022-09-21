@@ -22,8 +22,8 @@ const menu: Menu = {
             price: "$250",
         },
        {
-            title: "Promo Medialunas",
-            description: "Infusión + 2 Medialunas con jamon y queso",
+            title: "Promo Tostadas",
+            description: "Infusión + 2 tostadas con queso / mermelada o dulce de leche",
             price: "$350",
         },
          {
