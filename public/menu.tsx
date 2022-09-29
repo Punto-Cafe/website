@@ -10,7 +10,7 @@ interface Menu {
 }
 
 const menu: Menu = {
-    "Promos Desayuno o Merienda": [       
+    "Promos Infantiles": [       
         {
             title: "Promo Infantil 1",
             description: "Juguito Baggio + 1 Medialunas con jamon y queso",
@@ -20,6 +20,24 @@ const menu: Menu = {
             title: "Promo Infantil 2",
             description: "Juguito Baggio + 2 triangulos de tostado de miga",
             price: "$250",
+        },
+       {
+            title: "Promo Tostadas",
+            description: "Juguito Baggio + 1 mini árabe",
+            price: "$250",
+        },
+        ],
+  
+    "Promos Desayuno o Merienda": [       
+        {
+            title: "Promo Solo Desayuno",
+            description: "Infusión + 2 Medialunas con jamón y queso",
+            price: "$350",
+        },
+         {
+            title: "Promo Cafe",
+            description: "1 Café jarrito + 1 medialuna",
+            price: "$290",
         },
        {
             title: "Promo Tostadas",
