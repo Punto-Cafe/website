@@ -22,7 +22,7 @@ const menu: Menu = {
             price: "$250",
         },
        {
-            title: "Promo Tostadas",
+            title: "Promo Infantil 3",
             description: "Juguito Baggio + 1 mini árabe",
             price: "$250",
         },
