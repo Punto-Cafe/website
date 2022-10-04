@@ -304,11 +304,7 @@ const menu: Menu = {
             description: "Tarta de muzarella, albahaca y tomate cherry",
             price: "$600"
         },
-        {
-            title: "Tarta de jamón y muzzarella",
-            price: "$600"
-        },
-        {
+                {
             title: "Tarta de pollo al verdeo",
             price: "$600"
         },
