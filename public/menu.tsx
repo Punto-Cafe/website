@@ -199,19 +199,7 @@ const menu: Menu = {
             price: "250",
             glutenFree: true,
         },
-           {
-            title: "Alfajor de Chocolate",
-            description: "Alfajor de Chocolate relleno de dulce de leche",
-            price: "250",
-            glutenFree: true,
-        },
-           {
-            title: "Alfajor de Maicena",
-            description: "Alfajor de Maicena relleno de dulce de leche",
-            price: "220",
-            glutenFree: true,
-        },
-        {
+                  {
             title: "Mini Sacramento con jamon y queso",
             description: "Sacramentitos con jamon y queso (pack de 2)",
             price: "$450",
@@ -324,17 +312,10 @@ const menu: Menu = {
             title: "Tarta de pollo al verdeo",
             price: "$600"
         },
-        {
-            title: "Tarta de zapallito",
-            price: "$700",
-            glutenFree: true,
-        },
+        
     ],
     Empanadas: [
-        {
-            title: "Empanada de pollo",
-            price: "$150",
-        },
+        
         {
             title: "Empanada de carne",
             price: "$150",
@@ -349,18 +330,7 @@ const menu: Menu = {
             description: "Masa de espinaca con relleno de berenjena con ajo, cebolla y muzzarella",
             price: "$150",
         },
-        {
-            title: "Empanadas de jamón y queso",
-            description: "Empanadas (pack de 3) de jamón y queso",
-            price: "$450",
-            glutenFree: true,
-        },
-        {
-            title: "Empanadas de carne",
-            description: "Empanadas (pack de 3) de carne",
-            price: "$450",
-            glutenFree: true,
-        },
+       
     ],
     "Bebidas sin alcohol": [
         {
