@@ -314,17 +314,17 @@ const menu: Menu = {
         
         {
             title: "Empanada de carne",
-            price: "$150",
+            price: "$180",
         },
         {
             title: "Empanada de espinaca",
             description: "Masa de remolacha con relleno de espinaca con cebolla, zanahoria y muzzarella", 
-            price: "$150",
+            price: "$180",
         },
         {
             title: "Empanada de berenjena",
             description: "Masa de espinaca con relleno de berenjena con ajo, cebolla y muzzarella",
-            price: "$150",
+            price: "$180",
         },
        
     ],
