@@ -154,11 +154,11 @@ const menu: Menu = {
         {
             title: "Budin",
             description: "Porcion de budin de Limon o Naranja",
-            price: "300"
+            price: "260"
         },
         {
             title: "Chocotorta",
-            price: "$570"
+            price: "$490"
         },
         {
             title: "Brownie",
