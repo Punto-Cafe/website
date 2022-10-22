@@ -161,6 +161,14 @@ const menu: Menu = {
             price: "$190"
         },
         {
+            title: "Tarta de Frutilla",
+            price: "$390"
+        },
+        {
+            title: "Torta Balcarce",
+            price: "$390"
+        },
+        {
             title: "Chocotorta",
             price: "$490"
         },
