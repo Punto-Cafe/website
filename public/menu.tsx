@@ -156,6 +156,10 @@ const menu: Menu = {
             description: "Porcion de budin de Limon o Naranja",
             price: "260"
         },
+         {
+            title: "Tarta Bombón con Nutella",
+            price: "$190"
+        },
         {
             title: "Chocotorta",
             price: "$490"
