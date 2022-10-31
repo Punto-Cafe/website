@@ -45,7 +45,7 @@ const menu: Menu = {
             price: "$350",
         },
      
-       
+       ],
    
     cafetería: [
         {
