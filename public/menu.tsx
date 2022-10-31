@@ -30,7 +30,7 @@ const menu: Menu = {
   
     "Promos Desayuno o Merienda": [       
         {
-            title: "Promo Solo Desayuno",
+            title: "Promo Medialunas con jamón y Queso",
             description: "Infusión + 2 Medialunas con jamón y queso",
             price: "$350",
         },
@@ -44,12 +44,8 @@ const menu: Menu = {
             description: "Infusión + 2 tostadas con queso / mermelada o dulce de leche",
             price: "$350",
         },
-         {
-            title: "Promo Tostado",
-            description: "1 infunsión + 1 tostado de miga",
-            price: "$350",
-        },
-       ],
+     
+       
    
     cafetería: [
         {
