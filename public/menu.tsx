@@ -14,7 +14,7 @@ const menu: Menu = {
         {
             title: "Promo Infantil 1",
             description: "Juguito Baggio + 1 Medialunas con jamon y queso",
-            price: "$290",
+            price: "$390",
         },
          {
             title: "Promo Infantil 2",
