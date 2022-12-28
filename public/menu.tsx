@@ -64,11 +64,7 @@ const menu: Menu = {
             title: "Café con leche",
             price: "$360"
         },
-        {
-            title: "Café con crema",
-            price: "$330"
-        },
-        {
+       {
             title: "Lágrima",
             price: "$300"
         },
