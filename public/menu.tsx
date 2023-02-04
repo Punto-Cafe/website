@@ -127,7 +127,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable/manteca y mermelada/dulce de leche",
-            price: "$350"
+            price: "$360"
         },
         {
             title: "Medialuna",
@@ -137,11 +137,6 @@ const menu: Menu = {
         {
             title: "Medialuna con jamón & Queso",
             price: "$180"
-        },
-        {
-            title: "Alfajor",
-            description: "Alfajor de chocolate negro, chocolate blanco o relleno de fruta",
-            price: "$250"
         },
         {
             title: 'Tortas "Consultar" ',
@@ -156,12 +151,6 @@ const menu: Menu = {
             title: "Brownie con Helado",
             description: "Torta brownie con nueces servido con una bocha de helado de americana y salsa de chocolate",
             price: "$690"
-        },
-       {
-            title: "Tostadas",
-            description: "Tostadas con queso untable y mermelada/dulce de leche",
-            price: "$350",
-            glutenFree: true,
         },
         {
             title: "Medialunas x2",
