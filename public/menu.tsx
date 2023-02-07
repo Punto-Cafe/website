@@ -242,16 +242,16 @@ const menu: Menu = {
         {
             title: "Agua",
             description: "Agua con o sin gas",
-            price: "$190",
+            price: "$220",
         },
         {
             title: "Agua saborizada",
             description: "Agua saborizada de uva, pomelo, manzana, naranja, pera",
-            price: "$280",
+            price: "$290",
         }, {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero, Coca Cola Light, Fanta, Sprite, Sprite Zero, Schweppes pomelo",
-            price: "$280",
+            price: "$290",
         }, {
             title: "Exprimido",
             price: "$370",
