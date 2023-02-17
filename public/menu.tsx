@@ -106,10 +106,7 @@ const menu: Menu = {
             description: "café con leche con menta y chocolate",
             price: "$360"
         },
-        {
-            title: "Submarino",
-            price: "$360"
-        },
+        
         {
             title: "Té",
             price: "$200"
