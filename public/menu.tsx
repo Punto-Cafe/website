@@ -129,11 +129,11 @@ const menu: Menu = {
         {
             title: "Medialuna",
             description: "Medialuna dulce",
-            price: "$100"
+            price: "$120"
         },
         {
             title: "Medialuna con jamón & Queso",
-            price: "$180"
+            price: "$200"
         },
         {
             title: 'Tortas "Consultar" ',
