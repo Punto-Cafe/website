@@ -248,26 +248,17 @@ const menu: Menu = {
         },
         {
             title: "Agua saborizada",
-            description: "Agua saborizada de uva, pomelo, manzana, naranja, pera",
+            description: "Agua saborizada de pomelo, manzana, naranja",
             price: "$290",
         }, {
             title: "Gaseosa",
-            description: "Gaseosa Coca Cola, Coca Cola Zero, Coca Cola Light, Fanta, Sprite, Sprite Zero, Schweppes pomelo",
+            description: "Gaseosa Coca Cola, Coca Cola Zero, Fanta",
             price: "$290",
         }, {
             title: "Exprimido",
             price: "$370",
         },
-        {
-            title: "Limonada - Vaso",
-            description: "Limón y agua (400cc)",
-            price: "$200",
-        }, 
-        {
-            title: "Limonada - Jarra",
-            description: "Limón y agua (litro)",
-            price: "$570",
-        },
+       
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
