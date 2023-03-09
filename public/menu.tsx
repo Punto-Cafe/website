@@ -135,6 +135,11 @@ const menu: Menu = {
             title: "Medialuna con jamón & Queso",
             price: "$200"
         },
+         {
+            title: "Alfajor Patagonia",
+            description: "Alfajor Patagonia Blanco o Negro",
+            price: "$290"
+        },
         {
             title: 'Tortas "Consultar" ',
             price: "$590"
