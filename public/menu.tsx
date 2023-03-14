@@ -78,11 +78,6 @@ const menu: Menu = {
             price: "$450"
         },
         {
-            title: "Latte caramelo",
-            description: "Cafe con leche y sirope de caramelo",
-            price: "$450"
-        },
-        {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema y canela",
             price: "$520"
@@ -250,29 +245,24 @@ const menu: Menu = {
             title: "Agua saborizada",
             description: "Agua saborizada de pomelo, manzana, naranja",
             price: "$290",
-        }, {
+        }, 
+         {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero, Fanta",
             price: "$290",
-        }, {
-            title: "Exprimido",
-            price: "$370",
         },
-       
+         
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
             price: "$400",
-        }, {
-            title: "Licuado con leche o con naranja",
+        }, 
+         {
+            title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
             price: "$450",
         },
-        {
-            title: "Milkshake",
-            description: "Batido de Helado de americana o chocolate y leche (500cc)",
-            price: "$500",
-        },
+        
   ],
     "Cafetería Para Llevar": [
         {
