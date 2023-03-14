@@ -37,7 +37,7 @@ const menu: Menu = {
          {
             title: "Promo Cafe",
             description: "1 Café jarrito + 1 medialuna",
-            price: "$340",
+            price: "$390",
         },
        {
             title: "Promo Tostadas",
