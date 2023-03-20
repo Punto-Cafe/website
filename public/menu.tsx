@@ -14,17 +14,17 @@ const menu: Menu = {
         {
             title: "Promo Infantil 1",
             description: "Juguito Baggio + 1 Medialunas con jamon y queso",
-            price: "$390",
+            price: "$420",
         },
          {
             title: "Promo Infantil 2",
             description: "Juguito Baggio + 2 triangulos de tostado de miga",
-            price: "$390",
+            price: "$420",
         },
        {
             title: "Promo Infantil 3",
             description: "Juguito Baggio + 1 mini árabe",
-            price: "$390",
+            price: "420",
         },
         ],
   
@@ -32,17 +32,17 @@ const menu: Menu = {
         {
             title: "Promo Medialunas con jamón y Queso",
             description: "Infusión + 2 Medialunas con jamón y queso",
-            price: "$590",
+            price: "$620",
         },
          {
             title: "Promo Cafe",
             description: "1 Café jarrito + 1 medialuna",
-            price: "$350",
+            price: "$380",
         },
        {
             title: "Promo Tostadas",
             description: "Infusión + 2 tostadas con queso / mermelada o dulce de leche",
-            price: "$590",
+            price: "$620",
         },
      
        ],
@@ -50,7 +50,7 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$250"
+            price: "$260"
         },
         {
             title: "Café doble",
@@ -58,7 +58,7 @@ const menu: Menu = {
         },
         {
             title: "Café cortado",
-            price: "$270"
+            price: "$280"
         },
         {
             title: "Café con leche",
@@ -70,7 +70,7 @@ const menu: Menu = {
         },
         {
             title: "Capuchino",
-            price: "$400"
+            price: "$420"
         },
         {
             title: "Latte avellana",
@@ -90,7 +90,7 @@ const menu: Menu = {
         {
             title: "Café Malibú",
             description: "Café con Malibú, crema y coco rayado",
-            price: "$490"
+            price: "$520"
         },
         {
             title: "Café Con dulce de leche",
@@ -119,7 +119,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable/manteca y mermelada/dulce de leche",
-            price: "$360"
+            price: "$380"
         },
         {
             title: "Medialuna",
@@ -128,7 +128,7 @@ const menu: Menu = {
         },
         {
             title: "Medialuna con jamón & Queso",
-            price: "$200"
+            price: "$220"
         },
          {
             title: "Alfajor Patagonia",
@@ -152,61 +152,61 @@ const menu: Menu = {
         {
             title: "Medialunas x2",
             description: "Medialuna dulce",
-            price: "350",
+            price: "450",
             glutenFree: true,
         },
                   {
             title: "Mini Sacramento con jamon y queso",
             description: "Sacramentitos con jamon y queso (pack de 2)",
-            price: "$550",
+            price: "$650",
             glutenFree: true,
         },
         {
             title: "Brownie",
             glutenFree: true,
-            price: "$690"
+            price: "$750"
         }, {
             title: "Tarta bombón",
             description: "Tarta rellena de dulce de leche cubierta con chocolate",
             glutenFree: true,
-            price: "$690"
+            price: "$750"
         }, {
             title: "Pastafrola",
             description: "Pastafrola de dulce de membrillo",
             glutenFree: true,
-            price: "$550"
+            price: "$590"
         },
     ],
     Sandwiches: [
         {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$390"
+            price: "$450"
         },
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$390"
+            price: "$450"
         },
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe o Sacramento $480, mini árabe $280"
+            price: "Árabe o Sacramento $500, mini árabe $300"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $480, mini árabe $280"
+            price: "árabe o sacramento $500, mini árabe $300"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $500, minu árabe $300"
+            price: "árabe o sacramento $520, minu árabe $320"
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
             description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $520, mini árabe $320"
+            price: "árabe o sacramento $540, mini árabe $340"
         },
         {
             title: "Sandwich de jamón y queso",
@@ -271,7 +271,7 @@ const menu: Menu = {
         },
         {
             title: "Café cortado",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Café con leche",
@@ -279,7 +279,7 @@ const menu: Menu = {
         },
         {
             title: "Lágrima",
-            price: "$340"
+            price: "$320"
         },
         {
             title: "Té",
