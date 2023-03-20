@@ -137,17 +137,17 @@ const menu: Menu = {
         },
         {
             title: 'Tortas "Consultar" ',
-            price: "$590"
+            price: "$790"
         },
         {
             title: "Brownie",
             description: "Torta brownie con nueces",
-            price: "$590"
+            price: "$790"
         },
         {
             title: "Brownie con Helado",
             description: "Torta brownie con nueces servido con una bocha de helado de americana y salsa de chocolate",
-            price: "$690"
+            price: "$890"
         },
         {
             title: "Medialunas x2",
