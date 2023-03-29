@@ -108,7 +108,7 @@ const menu: Menu = {
         },
         {
             title: "Té con leche",
-            price: "$230"
+            price: "$240"
         },
         {
             title: "Chocolatada",
