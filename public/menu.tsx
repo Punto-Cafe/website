@@ -73,8 +73,8 @@ const menu: Menu = {
             price: "$420"
         },
         {
-            title: "Latte avellana",
-            description: "Cafe con leche y sirope de avellana",
+            title: "Latte caramelo",
+            description: "Cafe con leche y sirope de caramelo",
             price: "$450"
         },
         {
