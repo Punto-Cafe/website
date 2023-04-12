@@ -180,32 +180,32 @@ const menu: Menu = {
         {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$450"
+            price: "$470"
         },
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$450"
+            price: "$470"
         },
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe o Sacramento $500, mini árabe $300"
+            price: "Árabe o Sacramento $520, mini árabe $300"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $500, mini árabe $300"
+            price: "árabe o sacramento $520, mini árabe $300"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $520, minu árabe $320"
+            price: "árabe o sacramento $540, minu árabe $320"
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
             description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $540, mini árabe $340"
+            price: "árabe o sacramento $560, mini árabe $340"
         },
         {
             title: "Sandwich de jamón y queso",
@@ -254,39 +254,39 @@ const menu: Menu = {
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
-            price: "$400",
+            price: "$450",
         }, 
          {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$450",
+            price: "$490",
         },
         
   ],
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$320"
+            price: "$350"
         },
         {
             title: "Café cortado",
-            price: "$350"
+            price: "$390"
         },
         {
             title: "Café con leche",
-            price: "$400"
+            price: "$450"
         },
         {
             title: "Lágrima",
-            price: "$350"
+            price: "$390"
         },
         {
             title: "Té",
-            price: "$290"
+            price: "$350"
         },
         {
             title: "Té con leche",
-            price: "$320"
+            price: "$390"
         },
          
        ]
