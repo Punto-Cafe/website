@@ -39,87 +39,82 @@ const menu: Menu = {
             description: "1 Café jarrito + 1 medialuna",
             price: "$380",
         },
-       {
-            title: "Promo Tostadas",
-            description: "Infusión + 2 tostadas con queso / mermelada o dulce de leche",
-            price: "$620",
-        },
-     
+            
        ],
    
     cafetería: [
         {
             title: "Café",
-            price: "$260"
+            price: "$270"
         },
         {
             title: "Café doble",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Café cortado",
-            price: "$280"
+            price: "$290"
         },
         {
             title: "Café con leche",
-            price: "$360"
+            price: "$370"
         },
        {
             title: "Lágrima",
-            price: "$300"
+            price: "$320"
         },
         {
             title: "Capuchino",
-            price: "$420"
+            price: "$450"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$450"
+            price: "$470"
         },
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema y canela",
-            price: "$520"
+            price: "$550"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María, crema y cacao",
-            price: "$520"
+            price: "$550"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú, crema y coco rayado",
-            price: "$520"
+            price: "$550"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$360"
+            price: "$370"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$360"
+            price: "$370"
         },
         
         {
             title: "Té",
-            price: "$200"
+            price: "$250"
         },
         {
             title: "Té con leche",
-            price: "$240"
+            price: "$280"
         },
         {
             title: "Chocolatada",
-            price: "$360"
+            price: "$370"
         }
     ],
     Pastelería: [
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable/manteca y mermelada/dulce de leche",
-            price: "$380"
+            price: "$390"
         },
         {
             title: "Medialuna",
