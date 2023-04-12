@@ -45,69 +45,72 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$270"
-        },
-        {
-            title: "Café doble",
-            price: "$320"
-        },
-        {
-            title: "Café cortado",
             price: "$290"
         },
         {
+            title: "Café doble",
+            price: "$350"
+        },
+        {
+            title: "Café cortado",
+            price: "$320"
+        },
+        {
             title: "Café con leche",
-            price: "$370"
+            price: "$420"
         },
        {
             title: "Lágrima",
             price: "$320"
         },
         {
+            title: "Submarino",
+            price: "$590"
+        },
+        {
             title: "Capuchino",
-            price: "$450"
+            price: "$520"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$470"
+            price: "$520"
         },
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema y canela",
-            price: "$550"
+            price: "$690"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María, crema y cacao",
-            price: "$550"
+            price: "$690"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú, crema y coco rayado",
-            price: "$550"
+            price: "$690"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$370"
+            price: "$420"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$370"
-        },
-        
+            price: "$420"
+        }, 
         {
             title: "Té",
-            price: "$250"
+            price: "$290"
         },
         {
             title: "Té con leche",
-            price: "$280"
+            price: "$320"
         },
         {
             title: "Chocolatada",
-            price: "$370"
+            price: "$420"
         }
     ],
     Pastelería: [
