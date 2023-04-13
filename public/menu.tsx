@@ -63,7 +63,15 @@ const menu: Menu = {
             title: "Café doble",
             price: "$350"
         },
-       
+        {
+            title: "Café Con dulce de leche",
+            price: "$420"
+        },
+        {
+            title: "Café de menta",
+            description: "café con leche con menta y chocolate",
+            price: "$420"
+        }, 
         {
             title: "Submarino",
             price: "$590"
@@ -92,15 +100,6 @@ const menu: Menu = {
             description: "Café con Malibú, crema y coco rayado",
             price: "$690"
         },
-        {
-            title: "Café Con dulce de leche",
-            price: "$420"
-        },
-        {
-            title: "Café de menta",
-            description: "café con leche con menta y chocolate",
-            price: "$420"
-        }, 
         {
             title: "Té",
             price: "$290"
@@ -200,17 +199,17 @@ const menu: Menu = {
         {
             title: "Agua",
             description: "Agua con o sin gas",
-            price: "$220",
+            price: "$290",
         },
         {
             title: "Agua saborizada",
             description: "Agua saborizada de pomelo, manzana, naranja",
-            price: "$290",
+            price: "$390",
         }, 
          {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero, Fanta",
-            price: "$290",
+            price: "$390",
         },
          
         {
