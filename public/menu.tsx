@@ -148,32 +148,18 @@ const menu: Menu = {
             description: "Torta brownie con nueces servido con una bocha de helado de americana y salsa de chocolate",
             price: "$890"
         },
+        
         {
-            title: "Medialunas x2",
-            description: "Medialuna dulce",
-            price: "450",
-            glutenFree: true,
-        },
-                  {
-            title: "Mini Sacramento con jamon y queso",
-            description: "Sacramentitos con jamon y queso (pack de 2)",
-            price: "$650",
-            glutenFree: true,
-        },
-        {
-            title: "Brownie",
-            glutenFree: true,
-            price: "$750"
-        }, {
             title: "Tarta bombón",
             description: "Tarta rellena de dulce de leche cubierta con chocolate",
             glutenFree: true,
-            price: "$750"
-        }, {
+            price: "$890"
+        }, 
+        {
             title: "Pastafrola",
             description: "Pastafrola de dulce de membrillo",
             glutenFree: true,
-            price: "$590"
+            price: "$790"
         },
     ],
     Sandwiches: [
@@ -190,48 +176,24 @@ const menu: Menu = {
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe o Sacramento $520, mini árabe $300"
+            price: "Árabe o Sacramento $520, mini árabe $320"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $520, mini árabe $300"
+            price: "árabe o sacramento $520, mini árabe $320"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $540, minu árabe $320"
+            price: "árabe o sacramento $540, minu árabe $340"
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
             description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $560, mini árabe $340"
+            price: "árabe o sacramento $560, mini árabe $360"
         },
-        {
-            title: "Sandwich de jamón y queso",
-            description: "Sandwich de jamón y queso en pan lactal o árabe",
-            price: "$480",
-            glutenFree: true,
-        },
-        {
-            title: "Sandwich de queso y tomate",
-            description: "Sandwich de queso y tomate en pan lactal",
-            price: "$480",
-            glutenFree: true,
-        },
-        {
-            title: "Sandwich de jamón, queso y tomate",
-            description: "Sandwich de jamón, queso y tomate en pan lactal o árabe",
-            price: "$500",
-            glutenFree: true,
-        },
-       
-        {
-            title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
-            description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en pan lactal",
-            glutenFree: true,
-            price: "$520"
-        },
+        
     ],
    
      "Bebidas sin alcohol": [
