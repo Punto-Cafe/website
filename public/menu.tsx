@@ -132,7 +132,7 @@ const menu: Menu = {
          {
             title: "Alfajor Patagonia",
             description: "Alfajor Patagonia Blanco o Negro",
-            price: "$290"
+            price: "$350"
         },
         {
             title: 'Tortas "Consultar" ',
