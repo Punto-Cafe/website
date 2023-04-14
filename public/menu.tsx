@@ -220,7 +220,7 @@ const menu: Menu = {
          {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$490",
+            price: "$550",
         },
         
   ],
