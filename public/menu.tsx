@@ -165,7 +165,7 @@ const menu: Menu = {
         {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$470"
+            price: "$490"
         },
         {
             title: "Tostado de molde",
