@@ -165,32 +165,32 @@ const menu: Menu = {
         {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$490"
+            price: "$580"
         },
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$470"
+            price: "$580"
         },
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe o Sacramento $520, mini árabe $320"
+            price: "Árabe $590 ,  Sacramento $820, mini árabe $320"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $520, mini árabe $320"
+            price: "árabe $590 , sacramento $820 , mini árabe $320"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $540, minu árabe $340"
+            price: "árabe $620 ,  sacramento $840, minu árabe $340"
         },
         {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
             description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe o sacramento $560, mini árabe $360"
+            price: "árabe $640 , sacramento $860 , mini árabe $360"
         },
         
     ],
