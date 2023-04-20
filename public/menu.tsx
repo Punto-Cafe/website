@@ -19,7 +19,7 @@ const menu: Menu = {
          {
             title: "Promo Infantil 2",
             description: "Juguito Baggio + 2 triangulos de tostado de miga",
-            price: "$320",
+            price: "$390",
         },
        {
             title: "Promo Infantil 3",
