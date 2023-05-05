@@ -211,7 +211,10 @@ const menu: Menu = {
             description: "Gaseosa Coca Cola, Coca Cola Zero, Fanta",
             price: "$390",
         },
-         
+         {
+             title: "Exprimido",
+             price: "$690",
+         },
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
