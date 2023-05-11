@@ -208,7 +208,7 @@ const menu: Menu = {
         }, 
          {
             title: "Gaseosa",
-            description: "Gaseosa Coca Cola, Coca Cola Zero, Fanta",
+            description: "Gaseosa Coca Cola, Coca Cola Zero",
             price: "$420",
         },
          {
