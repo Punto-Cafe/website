@@ -117,7 +117,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable/manteca y mermelada/dulce de leche",
-            price: "$450"
+            price: "$590"
         },
         {
             title: "Medialuna",
@@ -144,22 +144,10 @@ const menu: Menu = {
         },
         {
             title: "Brownie con Helado",
-            description: "Torta brownie con nueces servido con una bocha de helado de americana y salsa de chocolate",
+            description: "Torta brownie con nueces servido con una bocha de helado de americana",
             price: "$890"
         },
         
-        {
-            title: "Tarta bombón",
-            description: "Tarta rellena de dulce de leche cubierta con chocolate",
-            glutenFree: true,
-            price: "$890"
-        }, 
-        {
-            title: "Pastafrola",
-            description: "Pastafrola de dulce de membrillo",
-            glutenFree: true,
-            price: "$790"
-        },
     ],
     Sandwiches: [
         {
