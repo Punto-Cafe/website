@@ -14,17 +14,17 @@ const menu: Menu = {
         {
             title: "Promo Infantil 1",
             description: "Juguito Baggio + 1 Medialunas con jamon y queso",
-            price: "$300",
+            price: "$350",
         },
          {
             title: "Promo Infantil 2",
             description: "Juguito Baggio + 2 triangulos de tostado de miga",
-            price: "$390",
+            price: "$430",
         },
        {
             title: "Promo Infantil 3",
             description: "Juguito Baggio + 1 mini árabe",
-            price: "$390",
+            price: "$430",
         },
         ],
   
