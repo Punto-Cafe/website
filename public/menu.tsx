@@ -116,7 +116,7 @@ const menu: Menu = {
     Pastelería: [
         {
             title: "Tostadas",
-            description: "Tostadas de pan de salvado con queso untable y mermelada/dulce de leche",
+            description: "Tostadas de pan de salvado con queso untable y mermelada",
             price: "$590"
         },
         {
@@ -146,6 +146,12 @@ const menu: Menu = {
             title: "Brownie con Helado",
             description: "Torta brownie con nueces servido con una bocha de helado de americana",
             price: "$890"
+        },
+        {
+            title: "Tostadas",
+            description: "Tostadas de pan con semillas con queso untable y mermelada",
+            glutenFree: true,
+            price: "$590"
         },
         {
             title: "Medialunas x2",
@@ -207,6 +213,24 @@ const menu: Menu = {
             title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
             description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en árabe, sacramento o mini árabe",
             price: "árabe $640 , sacramento $860 , mini árabe $360"
+        },
+       {
+            title: "Sandwich de jamón y queso",
+            description: "Sandwich de jamón y queso en pan lactal",
+            price: "$590",
+            glutenFree: true,
+        },
+        {
+            title: "Sandwich de queso y tomate",
+            description: "Sandwich de queso y tomate en pan lactal",
+            price: "$590",
+            glutenFree: true,
+        },
+        {
+            title: "Sandwich de jamón, queso y tomate",
+            description: "Sandwich de jamón, queso y tomate en pan lactal o árabe",
+            price: "$620",
+            glutenFree: true,
         },
         
     ],
