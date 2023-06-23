@@ -176,12 +176,7 @@ const menu: Menu = {
             glutenFree: true,
             price: "$1090"
         }, 
-        {
-            title: "Pastafrola",
-            description: "Pastafrola de dulce de membrillo",
-            glutenFree: true,
-            price: "$990"
-        },
+        
     ],
     Sandwiches: [
         {
