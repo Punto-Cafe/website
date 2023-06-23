@@ -207,28 +207,28 @@ const menu: Menu = {
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $620 ,  sacramento $840, minu árabe $340"
+            price: "árabe $620 ,  sacramento $840, mini árabe $340"
         },
         {
-            title: "Sandwich de queso, tomate, zanahoria y aceitunas negras",
-            description: "Sandwich de queso, tomate, zanahoria y aceitunas negras en árabe, sacramento o mini árabe",
+            title: "Sandwich de queso, tomate y aceitunas negras",
+            description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
             price: "árabe $640 , sacramento $860 , mini árabe $360"
         },
        {
             title: "Sandwich de jamón y queso",
-            description: "Sandwich de jamón y queso en pan lactal",
+            description: "Sandwich de jamón y queso en pan lactal con semillas",
             price: "$590",
             glutenFree: true,
         },
         {
             title: "Sandwich de queso y tomate",
-            description: "Sandwich de queso y tomate en pan lactal",
+            description: "Sandwich de queso y tomate en pan lactal con semillas",
             price: "$590",
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
-            description: "Sandwich de jamón, queso y tomate en pan lactal o árabe",
+            description: "Sandwich de jamón, queso y tomate en pan lactal con semillas",
             price: "$620",
             glutenFree: true,
         },
