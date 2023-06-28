@@ -10,23 +10,7 @@ interface Menu {
 }
 
 const menu: Menu = {
-    "Promos Infantiles": [       
-        {
-            title: "Promo Infantil 1",
-            description: "Juguito Baggio + 1 Medialunas con jamon y queso",
-            price: "$350",
-        },
-         {
-            title: "Promo Infantil 2",
-            description: "Juguito Baggio + 2 triangulos de tostado de miga",
-            price: "$430",
-        },
-       {
-            title: "Promo Infantil 3",
-            description: "Juguito Baggio + 1 mini árabe",
-            price: "$430",
-        },
-        ],
+ 
   
     "Promos Desayuno o Merienda": [       
         {
@@ -265,11 +249,11 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$370"
+            price: "$420"
         },
         {
             title: "Café cortado",
-            price: "$420"
+            price: "$440"
         },
         {
             title: "Café con leche",
@@ -277,15 +261,15 @@ const menu: Menu = {
         },
         {
             title: "Lágrima",
-            price: "$420"
+            price: "$440"
         },
         {
             title: "Té",
-            price: "$370"
+            price: "$420"
         },
         {
             title: "Té con leche",
-            price: "$390"
+            price: "$440"
         },
          
        ]
