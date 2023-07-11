@@ -11,7 +11,23 @@ interface Menu {
 
 const menu: Menu = {
  
-  
+     "Promos Infantiles": [       
+        {
+            title: "Promo Infantil 1",
+            description: "Juguito Baggio + 1 Medialunas con jamon y queso",
+            price: "$350",
+        },
+         {
+            title: "Promo Infantil 2",
+            description: "Juguito Baggio + 2 triangulos de tostado de miga",
+            price: "$430",
+        },
+       {
+            title: "Promo Infantil 3",
+            description: "Juguito Baggio + 1 mini árabe",
+            price: "$430",
+        },
+        ],
     "Promos Desayuno o Merienda": [       
         {
             title: "Promo Medialunas con jamón y Queso",
