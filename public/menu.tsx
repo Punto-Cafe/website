@@ -36,7 +36,7 @@ const menu: Menu = {
         },
          {
             title: "Promo Café con porción de Tarta",
-            description: "Café jarrito + porci+on de Tarta",
+            description: "Café jarrito + porción de Tarta",
             price: "Pasta Frola $720 , Tarta Coco $820",
         },
          {
