@@ -25,7 +25,7 @@ const menu: Menu = {
        {
             title: "Promo Infantil 3",
             description: "Juguito Baggio + 1 mini árabe",
-            price: "$460",
+            price: "$590",
         },
         ],
     "Promos Desayuno o Merienda": [       
@@ -35,9 +35,14 @@ const menu: Menu = {
             price: "$750",
         },
          {
+            title: "Promo Café con leche",
+            description: "Café con leche + 2 Medialunas dulces",
+            price: "$730",
+        },
+         {
             title: "Promo Cafe",
             description: "1 Café jarrito + 1 medialuna",
-            price: "$460",
+            price: "$490",
         },
             
        ],
@@ -45,32 +50,32 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$340"
+            price: "$350"
         },
         {
             title: "Café cortado",
-            price: "$340"
+            price: "$350"
         },
         {
             title: "Lágrima",
-            price: "$340"
+            price: "$350"
         },
         {
             title: "Café con leche",
-            price: "$440"
+            price: "$450"
         },
         {
             title: "Café doble",
-            price: "$370"
+            price: "$380"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$440"
+            price: "$450"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$440"
+            price: "$450"
         }, 
         {
             title: "Submarino",
@@ -78,12 +83,12 @@ const menu: Menu = {
         },
         {
             title: "Capuchino",
-            price: "$540"
+            price: "$550"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$540"
+            price: "$550"
         },
         {
             title: "Café irlandés",
@@ -102,11 +107,11 @@ const menu: Menu = {
         },
         {
             title: "Té",
-            price: "$290"
+            price: "$320"
         },
         {
             title: "Té con leche",
-            price: "$340"
+            price: "$350"
         },
         {
             title: "Chocolatada",
@@ -122,11 +127,11 @@ const menu: Menu = {
         {
             title: "Medialuna",
             description: "Medialuna dulce",
-            price: "$140"
+            price: "$150"
         },
         {
             title: "Medialuna con jamón & Queso",
-            price: "$220"
+            price: "$240"
         },
          {
             title: "Alfajor Patagonia",
@@ -183,49 +188,49 @@ const menu: Menu = {
         {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$580"
+            price: "$620"
         },
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$580"
+            price: "$620"
         },
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $590 ,  Sacramento $820, mini árabe $320"
+            price: "Árabe $620 ,  Sacramento $840, mini árabe $450"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $590 , sacramento $820 , mini árabe $320"
+            price: "árabe $620 , sacramento $840 , mini árabe $450"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $620 ,  sacramento $840, mini árabe $340"
+            price: "árabe $640 ,  sacramento $860, mini árabe $470"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $640 , sacramento $860 , mini árabe $360"
+            price: "árabe $660 , sacramento $880 , mini árabe $490"
         },
        {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan lactal con semillas",
-            price: "$590",
+            price: "$620",
             glutenFree: true,
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en pan lactal con semillas",
-            price: "$590",
+            price: "$620",
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan lactal con semillas",
-            price: "$620",
+            price: "$640",
             glutenFree: true,
         },
         
@@ -254,39 +259,39 @@ const menu: Menu = {
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
-            price: "$490",
+            price: "$520",
         }, 
          {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$590",
+            price: "$620",
         },
         
   ],
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$420"
+            price: "$430"
         },
         {
             title: "Café cortado",
-            price: "$440"
+            price: "$450"
         },
         {
             title: "Café con leche",
-            price: "$470"
+            price: "$480"
         },
         {
             title: "Lágrima",
-            price: "$440"
+            price: "$450"
         },
         {
             title: "Té",
-            price: "$420"
+            price: "$430"
         },
         {
             title: "Té con leche",
-            price: "$440"
+            price: "$450"
         },
          
        ]
