@@ -32,7 +32,7 @@ const menu: Menu = {
         {
             title: "Promo Medialunas con jamón y Queso",
             description: "Infusión + 2 Medialunas con jamón y queso",
-            price: "$750",
+            price: "$790",
         },
          {
             title: "Promo Café con porción de Tarta",
