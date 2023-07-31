@@ -185,11 +185,7 @@ const menu: Menu = {
         
     ],
     Sandwiches: [
-        {
-            title: "Tostado de miga",
-            description: "Tostado de miga con jamón y queso",
-            price: "$720"
-        },
+        
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
