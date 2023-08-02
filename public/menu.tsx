@@ -32,17 +32,17 @@ const menu: Menu = {
         {
             title: "Promo Medialunas con jamón y Queso",
             description: "Infusión + 2 Medialunas con jamón y queso",
-            price: "$790",
+            price: "$820",
         },
          {
             title: "Promo Café con leche",
             description: "Café con leche + 2 Medialunas dulces",
-            price: "$730",
+            price: "$760",
         },
          {
             title: "Promo Cafe",
             description: "1 Café jarrito + 1 medialuna",
-            price: "$490",
+            price: "$520",
         },
             
        ],
@@ -115,7 +115,7 @@ const menu: Menu = {
         },
         {
             title: "Chocolatada",
-            price: "$440"
+            price: "$490"
         }
     ],
     Pastelería: [
