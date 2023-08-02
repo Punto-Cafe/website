@@ -267,19 +267,19 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$430"
+            price: "$470"
         },
         {
             title: "Café cortado",
-            price: "$450"
+            price: "$490"
         },
         {
             title: "Café con leche",
-            price: "$480"
+            price: "$520"
         },
         {
             title: "Lágrima",
-            price: "$450"
+            price: "$490"
         },
         {
             title: "Té",
