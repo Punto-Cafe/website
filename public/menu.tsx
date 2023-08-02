@@ -50,68 +50,68 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$350"
+            price: "$390"
         },
         {
             title: "Café cortado",
-            price: "$350"
+            price: "$390"
         },
         {
             title: "Lágrima",
-            price: "$350"
+            price: "$390"
         },
         {
             title: "Café con leche",
-            price: "$450"
+            price: "$490"
         },
         {
             title: "Café doble",
-            price: "$380"
+            price: "$490"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$450"
+            price: "$490"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$450"
+            price: "$490"
         }, 
         {
             title: "Submarino",
-            price: "$590"
+            price: "$650"
         },
         {
             title: "Capuchino",
-            price: "$550"
+            price: "$630"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$550"
+            price: "$630"
         },
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés, crema y canela",
-            price: "$720"
+            price: "$890"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María, crema y cacao",
-            price: "$720"
+            price: "$890"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú, crema y coco rayado",
-            price: "$720"
+            price: "$890"
         },
         {
             title: "Té",
-            price: "$290"
+            price: "$350"
         },
         {
             title: "Té con leche",
-            price: "$350"
+            price: "$390"
         },
         {
             title: "Chocolatada",
