@@ -37,12 +37,12 @@ const menu: Menu = {
          {
             title: "Promo Café con leche",
             description: "Café con leche + 2 Medialunas dulces",
-            price: "$760",
+            price: "$770",
         },
          {
             title: "Promo Cafe",
             description: "1 Café jarrito + 1 medialuna",
-            price: "$520",
+            price: "$530",
         },
             
        ],
@@ -127,11 +127,11 @@ const menu: Menu = {
         {
             title: "Medialuna",
             description: "Medialuna dulce",
-            price: "$150"
+            price: "$160"
         },
         {
             title: "Medialuna con jamón & Queso",
-            price: "$240"
+            price: "$250"
         },
          {
             title: "Alfajor Patagonia",
