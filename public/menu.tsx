@@ -37,7 +37,7 @@ const menu: Menu = {
          {
             title: "Promo Café con leche",
             description: "Café con leche + 2 Medialunas dulces",
-            price: "$770",
+            price: "$780",
         },
          {
             title: "Promo Cafe",
