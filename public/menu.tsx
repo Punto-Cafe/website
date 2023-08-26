@@ -44,7 +44,11 @@ const menu: Menu = {
             description: "1 Café jarrito + 1 medialuna",
             price: "$590",
         },
-            
+         {
+            title: "Promo del Dia",
+            description: "1 Café jarrito + 1 una porción de torta (Consultar)",
+            price: "$860",
+        },    
        ],
    
     cafetería: [
