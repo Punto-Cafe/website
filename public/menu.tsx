@@ -25,7 +25,7 @@ const menu: Menu = {
        {
             title: "Promo Infantil 3",
             description: "Juguito Baggio + 1 mini árabe",
-            price: "$590",
+            price: "$620",
         },
         ],
     "Promos Desayuno o Merienda": [       
@@ -198,22 +198,22 @@ const menu: Menu = {
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $720 ,  Sacramento $980, mini árabe $450"
+            price: "Árabe $720 ,  Sacramento $980, mini árabe $490"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $720 , sacramento $980 , mini árabe $450"
+            price: "árabe $720 , sacramento $980 , mini árabe $490"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $740 ,  sacramento $1000, mini árabe $470"
+            price: "árabe $740 ,  sacramento $1000, mini árabe $520"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $740 , sacramento $1000 , mini árabe $490"
+            price: "árabe $740 , sacramento $1000 , mini árabe $520"
         },
        {
             title: "Sandwich de jamón y queso",
