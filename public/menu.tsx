@@ -32,23 +32,19 @@ const menu: Menu = {
         {
             title: "Promo Medialunas con jamón y Queso",
             description: "Infusión + 2 Medialunas con jamón y queso",
-            price: "$950",
+            price: "$990",
         },
          {
             title: "Promo Café con leche",
             description: "Café con leche + 2 Medialunas dulces",
-            price: "$850",
+            price: "$890",
         },
          {
             title: "Promo Cafe",
             description: "1 Café jarrito + 1 medialuna",
-            price: "$590",
+            price: "$620",
         },
-         {
-            title: "Promo del Dia",
-            description: "1 Café jarrito + 1 una porción de torta (Consultar)",
-            price: "$860",
-        },    
+           
        ],
    
     cafetería: [
@@ -131,7 +127,7 @@ const menu: Menu = {
         {
             title: "Medialuna",
             description: "Medialuna dulce",
-            price: "$160"
+            price: "$180"
         },
         {
             title: "Medialuna con jamón & Queso",
@@ -193,6 +189,11 @@ const menu: Menu = {
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
+            price: "$750"
+        },
+         {
+            title: "Tostado de miga",
+            description: "Tostado de miga con jamón y queso",
             price: "$750"
         },
         {
