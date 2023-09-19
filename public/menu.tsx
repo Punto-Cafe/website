@@ -122,7 +122,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable y mermelada",
-            price: "$590"
+            price: "690"
         },
         {
             title: "Medialuna",
