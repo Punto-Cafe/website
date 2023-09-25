@@ -153,32 +153,21 @@ const menu: Menu = {
             title: "Tostadas",
             description: "Tostadas de pan con semillas con queso untable y mermelada",
             glutenFree: true,
-            price: "$590"
+            price: "$750"
         },
         {
             title: "Medialunas x2",
             description: "Medialuna dulce",
-            price: "450",
+            price: "650",
             glutenFree: true,
         },
                   {
             title: "Mini Sacramento con jamon y queso",
             description: "Sacramentitos con jamon y queso (pack de 2)",
-            price: "$790",
+            price: "$1300",
             glutenFree: true,
         },
-        {
-            title: "Brownie",
-            glutenFree: true,
-            price: "$1090"
-        }, 
-        {
-            title: "Tarta bombón",
-            description: "Tarta rellena de dulce de leche cubierta con chocolate",
-            glutenFree: true,
-            price: "$1090"
-        }, 
-        
+     
     ],
     Sandwiches: [
         
