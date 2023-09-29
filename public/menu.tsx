@@ -184,22 +184,22 @@ const menu: Menu = {
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $750 ,  Sacramento $980, mini árabe $490"
+            price: "Árabe $750, mini árabe $490"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $750 , sacramento $980 , mini árabe $490"
+            price: "árabe $750, mini árabe $490"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $770 ,  sacramento $1000, mini árabe $520"
+            price: "árabe $770, mini árabe $520"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $790 , sacramento $1000 , mini árabe $520"
+            price: "árabe $790 , mini árabe $520"
         },
        {
             title: "Sandwich de jamón y queso",
