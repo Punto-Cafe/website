@@ -20,12 +20,12 @@ const menu: Menu = {
          {
             title: "Promo Infantil 2",
             description: "Juguito Baggio + 2 triangulos de tostado de miga",
-            price: "$640",
+            price: "$660",
         },
        {
             title: "Promo Infantil 3",
             description: "Juguito Baggio + 1 mini árabe",
-            price: "$720",
+            price: "$790",
         },
         ],
     "Promos Desayuno o Merienda": [       
@@ -174,49 +174,49 @@ const menu: Menu = {
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$750"
+            price: "$820"
         },
          {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$750"
+            price: "$820"
         },
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $750, mini árabe $490"
+            price: "Árabe $820, mini árabe $550"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $750, mini árabe $490"
+            price: "árabe $820, mini árabe $550"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $770, mini árabe $520"
+            price: "árabe $840, mini árabe $570"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $790 , mini árabe $520"
+            price: "árabe $840 , mini árabe $570"
         },
        {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan lactal con semillas",
-            price: "$750",
+            price: "$820",
             glutenFree: true,
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en pan lactal con semillas",
-            price: "$750",
+            price: "$820",
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan lactal con semillas",
-            price: "$770",
+            price: "$840",
             glutenFree: true,
         },
         
