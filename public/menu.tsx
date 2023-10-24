@@ -29,20 +29,16 @@ const menu: Menu = {
         },
         ],
     "Promos Desayuno o Merienda": [       
-        {
-            title: "Promo Medialunas con jamón y Queso",
-            description: "Infusión + 2 Medialunas con jamón y queso",
-            price: "$990",
-        },
+        
          {
             title: "Promo Café con leche",
             description: "Café con leche + 2 Medialunas dulces",
-            price: "$960",
+            price: "$990",
         },
          {
             title: "Promo Cafe",
             description: "1 Café jarrito + 1 medialuna",
-            price: "$640",
+            price: "$690",
         },
            
        ],
@@ -50,72 +46,72 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$480"
+            price: "$520"
         },
         {
             title: "Café cortado",
-            price: "$480"
+            price: "$520"
         },
         {
             title: "Lágrima",
-            price: "$480"
+            price: "$520"
         },
         {
             title: "Café con leche",
-            price: "$580"
+            price: "$620"
         },
         {
             title: "Café doble",
-            price: "$580"
+            price: "$620"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$580"
+            price: "$620"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$580"
+            price: "$620"
         }, 
         {
             title: "Submarino",
-            price: "$750"
+            price: "$790"
         },
         {
             title: "Capuchino",
-            price: "$750"
+            price: "$790"
         },
         {
             title: "Latte caramelo",
             description: "Cafe con leche y sirope de caramelo",
-            price: "$750"
+            price: "$790"
         },
         {
             title: "Café irlandés",
-            description: "Café con Whisky Irlandés, crema y canela",
-            price: "$1050"
+            description: "Café con Whisky Irlandés y canela",
+            price: "$1090"
         },
         {
             title: "Café Calypso",
-            description: "Café con Tía María, crema y cacao",
-            price: "$1050"
+            description: "Café con Tía María y cacao",
+            price: "$1090"
         },
         {
             title: "Café Malibú",
-            description: "Café con Malibú, crema y coco rayado",
-            price: "$1050"
+            description: "Café con Malibú y coco rayado",
+            price: "$1090"
         },
         {
             title: "Té",
-            price: "$420"
+            price: "$460"
         },
         {
             title: "Té con leche",
-            price: "$450"
+            price: "$490"
         },
         {
             title: "Chocolatada",
-            price: "$590"
+            price: "$630"
         }
     ],
     Pastelería: [
