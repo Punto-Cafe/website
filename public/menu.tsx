@@ -15,17 +15,17 @@ const menu: Menu = {
         {
             title: "Promo Infantil 1",
             description: "Juguito Baggio + 1 Medialunas con jamon y queso",
-            price: "$490",
+            price: "$590",
         },
          {
             title: "Promo Infantil 2",
             description: "Juguito Baggio + 2 triangulos de tostado de miga",
-            price: "$660",
+            price: "$690",
         },
        {
             title: "Promo Infantil 3",
             description: "Juguito Baggio + 1 mini árabe",
-            price: "$790",
+            price: "$830",
         },
         ],
     "Promos Desayuno o Merienda": [       
@@ -118,7 +118,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable y mermelada",
-            price: "690"
+            price: "890"
         },
         {
             title: "Medialuna",
@@ -127,40 +127,40 @@ const menu: Menu = {
         },
         {
             title: "Medialuna con jamón & Queso",
-            price: "$300"
+            price: "$350"
         },
          
         {
             title: 'Tortas "Consultar" ',
-            description: "pasta frola $550, Tarta Coco $650"
+            description: "pasta frola $650, Tarta Coco $750"
             
         },
         {
             title: "Brownie",
             description: "Torta brownie con nueces",
-            price: "$990"
+            price: "$1100"
         },
         {
             title: "Brownie con Helado",
             description: "Torta brownie con nueces servido con una bocha de helado de americana",
-            price: "$1100"
+            price: "$1300"
         },
         {
             title: "Tostadas",
             description: "Tostadas de pan con semillas con queso untable y mermelada",
             glutenFree: true,
-            price: "$750"
+            price: "$850"
         },
         {
             title: "Medialunas x2",
             description: "Medialuna dulce",
-            price: "650",
+            price: "850",
             glutenFree: true,
         },
                   {
             title: "Mini Sacramento con jamon y queso",
             description: "Sacramentitos con jamon y queso (pack de 2)",
-            price: "$1300",
+            price: "$1500",
             glutenFree: true,
         },
      
@@ -170,49 +170,49 @@ const menu: Menu = {
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$820"
+            price: "$900"
         },
          {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$820"
+            price: "$900"
         },
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $820, mini árabe $550"
+            price: "Árabe $900, mini árabe $600"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $820, mini árabe $550"
+            price: "árabe $900, mini árabe $600"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $840, mini árabe $570"
+            price: "árabe $940, mini árabe $640"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $840 , mini árabe $570"
+            price: "árabe $940 , mini árabe $640"
         },
        {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan lactal con semillas",
-            price: "$820",
+            price: "$900",
             glutenFree: true,
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en pan lactal con semillas",
-            price: "$820",
+            price: "$900",
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan lactal con semillas",
-            price: "$840",
+            price: "$940",
             glutenFree: true,
         },
         
@@ -222,31 +222,31 @@ const menu: Menu = {
         {
             title: "Agua",
             description: "Agua con o sin gas",
-            price: "$450",
+            price: "$490",
         },
         {
             title: "Agua saborizada",
             description: "Agua saborizada de pomelo, manzana, naranja",
-            price: "$550",
+            price: "$590",
         }, 
          {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero",
-            price: "$550",
+            price: "$590",
         },
          {
              title: "Exprimido",
-             price: "$820",
+             price: "$890",
          },
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
-            price: "$650",
+            price: "$690",
         }, 
          {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$750",
+            price: "$790",
         },
         
   ],
