@@ -20,12 +20,12 @@ const menu: Menu = {
          {
             title: "Promo Infantil 2",
             description: "Juguito Baggio + 2 triangulos de tostado de miga",
-            price: "$690",
+            price: "$740",
         },
        {
             title: "Promo Infantil 3",
             description: "Juguito Baggio + 1 mini árabe",
-            price: "$830",
+            price: "$870",
         },
         ],
     "Promos Desayuno o Merienda": [       
@@ -180,22 +180,22 @@ const menu: Menu = {
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $900, mini árabe $600"
+            price: "Árabe $1020, mini árabe $640"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $900, mini árabe $600"
+            price: "árabe $1020, mini árabe $640"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $940, mini árabe $640"
+            price: "árabe $1060, mini árabe $680"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $940 , mini árabe $640"
+            price: "árabe $1060 , mini árabe $680"
         },
        {
             title: "Sandwich de jamón y queso",
@@ -253,19 +253,19 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$620"
+            price: "$680"
         },
         {
             title: "Café cortado",
-            price: "$620"
+            price: "$680"
         },
         {
             title: "Café con leche",
-            price: "$620"
+            price: "$680"
         },
         {
             title: "Lágrima",
-            price: "$620"
+            price: "$680"
         },        
        ]
 }
