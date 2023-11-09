@@ -248,6 +248,11 @@ const menu: Menu = {
             description: "Licuado con leche con frutas de estación (500cc)",
             price: "$790",
         },
+         {
+            title: "Ensaladas",
+            description: "Ensaladas de fruta o Ensaladas (Consultar variedad)",
+            price: "$990",
+        },
         
   ],
     "Cafetería Para Llevar": [
