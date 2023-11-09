@@ -40,7 +40,11 @@ const menu: Menu = {
             description: "1 Café jarrito + 1 medialuna",
             price: "$760",
         },
-           
+         {
+            title: "Ensaladas",
+            description: "Ensaladas de fruta o Ensaladas (Consultar variedad)",
+            price: "$990",
+        },  
        ],
    
     cafetería: [
@@ -248,11 +252,7 @@ const menu: Menu = {
             description: "Licuado con leche con frutas de estación (500cc)",
             price: "$790",
         },
-         {
-            title: "Ensaladas",
-            description: "Ensaladas de fruta o Ensaladas (Consultar variedad)",
-            price: "$990",
-        },
+         
         
   ],
     "Cafetería Para Llevar": [
