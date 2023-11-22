@@ -127,16 +127,16 @@ const menu: Menu = {
         {
             title: "Medialuna",
             description: "Medialuna dulce",
-            price: "$200"
+            price: "$220"
         },
         {
             title: "Medialuna con jamón & Queso",
-            price: "$350"
+            price: "$370"
         },
          
         {
             title: 'Tortas "Consultar" ',
-            description: "pasta frola $650, Tarta Coco $750"
+            description: "pasta frola o ricota $670, Tarta Coco $750"
             
         },
         {
