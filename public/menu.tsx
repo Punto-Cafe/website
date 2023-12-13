@@ -34,7 +34,7 @@ const menu: Menu = {
          {
             title: "Promo Cafe",
             description: "1 Café jarrito + 1 medialuna",
-            price: "$820",
+            price: "$870",
         },
          
        ],
@@ -42,15 +42,15 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$590"
+            price: "$620"
         },
         {
             title: "Café cortado",
-            price: "$590"
+            price: "$620"
         },
         {
             title: "Lágrima",
-            price: "$590"
+            price: "$620"
         },
         {
             title: "Café con leche",
@@ -58,44 +58,40 @@ const menu: Menu = {
         },
         {
             title: "Café doble",
-            price: "$690"
+            price: "$720"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$690"
+            price: "$720"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$690"
+            price: "$720"
         }, 
         {
             title: "Submarino",
-            price: "$860"
+            price: "$890"
         },
         {
             title: "Capuchino",
-            price: "$860"
+            price: "$890"
         },
-        {
-            title: "Latte caramelo",
-            description: "Cafe con leche y sirope de caramelo",
-            price: "$860"
-        },
+        
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés y canela",
-            price: "$1160"
+            price: "$1190"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María y cacao",
-            price: "$1160"
+            price: "$1190"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú y coco rayado",
-            price: "$1160"
+            price: "$1190"
         },
         {
             title: "Té",
@@ -103,11 +99,11 @@ const menu: Menu = {
         },
         {
             title: "Té con leche",
-            price: "$560"
+            price: "$590"
         },
         {
             title: "Chocolatada",
-            price: "$690"
+            price: "$720"
         }
     ],
     Pastelería: [
@@ -119,44 +115,44 @@ const menu: Menu = {
         {
             title: "Medialuna",
             description: "Medialuna dulce",
-            price: "$250"
+            price: "$270"
         },
         {
             title: "Medialuna con jamón & Queso",
-            price: "$370"
+            price: "$390"
         },
          
         {
             title: 'Tortas "Consultar" ',
-            description: "pasta frola o ricota $670, Tarta Coco $750"
+            description: "pasta frola o ricota $690, Tarta Coco $790"
             
         },
         {
             title: "Brownie",
             description: "Torta brownie con nueces",
-            price: "$1100"
+            price: "$1300"
         },
         {
             title: "Brownie con Helado",
             description: "Torta brownie con nueces servido con una bocha de helado de americana",
-            price: "$1300"
+            price: "$1500"
         },
         {
             title: "Tostadas",
             description: "Tostadas de pan con semillas con queso untable y mermelada",
             glutenFree: true,
-            price: "$850"
+            price: "$890"
         },
         {
             title: "Medialunas x2",
             description: "Medialuna dulce",
-            price: "850",
+            price: "890",
             glutenFree: true,
         },
                   {
             title: "Mini Sacramento con jamon y queso",
             description: "Sacramentitos con jamon y queso (pack de 2)",
-            price: "$1500",
+            price: "$1700",
             glutenFree: true,
         },
      
@@ -166,49 +162,49 @@ const menu: Menu = {
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$990"
+            price: "$1090"
         },
          {
             title: "Tostado de miga",
             description: "Tostado de miga con jamón y queso",
-            price: "$990"
+            price: "$1090"
         },
         {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $1190, mini árabe $640"
+            price: "Árabe $1290, mini árabe $690"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $1190, mini árabe $640"
+            price: "árabe $1290, mini árabe $690"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $1250, mini árabe $680"
+            price: "árabe $1350, mini árabe $720"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $1250 , mini árabe $680"
+            price: "árabe $1350 , mini árabe $720"
         },
        {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan lactal con semillas",
-            price: "$990",
+            price: "$1090",
             glutenFree: true,
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en pan lactal con semillas",
-            price: "$990",
+            price: "$1090",
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan lactal con semillas",
-            price: "$1140",
+            price: "$1240",
             glutenFree: true,
         },
         
@@ -237,12 +233,12 @@ const menu: Menu = {
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
-            price: "$690",
+            price: "$790",
         }, 
          {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$790",
+            price: "$890",
         },
          
         
@@ -250,19 +246,19 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café",
-            price: "$690"
+            price: "$720"
         },
         {
             title: "Café cortado",
-            price: "$690"
+            price: "$720"
         },
         {
             title: "Café con leche",
-            price: "$690"
+            price: "$720"
         },
         {
             title: "Lágrima",
-            price: "$690"
+            price: "$720"
         },        
        ]
 }
