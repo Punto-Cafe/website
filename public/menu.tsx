@@ -15,13 +15,13 @@ const menu: Menu = {
         {
             title: "Promo Infantil 1",
             description: "Juguito Baggio + 1 Medialunas con jamon y queso",
-            price: "$590",
+            price: "$790",
         },
          
        {
             title: "Promo Infantil 2",
             description: "Juguito Baggio + 1 mini árabe",
-            price: "$870",
+            price: "$1120",
         },
         ],
     "Promos Desayuno o Merienda": [       
@@ -110,7 +110,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable y mermelada",
-            price: "890"
+            price: "990"
         },
         {
             title: "Medialuna",
