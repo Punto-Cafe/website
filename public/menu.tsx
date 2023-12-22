@@ -214,12 +214,12 @@ const menu: Menu = {
         {
             title: "Agua",
             description: "Agua con o sin gas",
-            price: "$600",
+            price: "$670",
         },
         {
             title: "Agua saborizada",
             description: "Agua saborizada de pomelo, manzana, naranja",
-            price: "$700",
+            price: "$770",
         }, 
          {
             title: "Gaseosa",
