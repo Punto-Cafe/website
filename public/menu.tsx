@@ -87,7 +87,10 @@ const menu: Menu = {
             description: "Tostadas de pan de salvado con queso untable y mermelada",
             price: "1500"
         },
-        
+        {
+            title: "Medialuna",
+            price: "$360"
+        },
          
         {
             title: 'Tortas "Consultar" ',
@@ -129,6 +132,10 @@ const menu: Menu = {
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
+            price: "$1890"
+        },
+        {
+            title: "Tostado Miga",
             price: "$1890"
         },
                {
