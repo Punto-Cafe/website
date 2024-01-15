@@ -196,7 +196,7 @@ const menu: Menu = {
          {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero",
-            price: "$700",
+            price: "$770",
         },
          {
              title: "Exprimido",
