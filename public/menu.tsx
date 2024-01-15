@@ -97,7 +97,7 @@ const menu: Menu = {
         },
         {
             title: 'Tortas "Consultar" ',
-            description: "pasta frola o ricota $690, Tarta Coco $790"
+            description: "pasta frola $890 o ricota $1050"
             
         },
         {
