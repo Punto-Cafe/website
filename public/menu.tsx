@@ -191,12 +191,12 @@ const menu: Menu = {
         {
             title: "Agua saborizada",
             description: "Agua saborizada de pomelo, manzana, naranja",
-            price: "$770",
+            price: "$850",
         }, 
          {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero",
-            price: "$770",
+            price: "$850",
         },
          {
              title: "Exprimido",
