@@ -137,10 +137,7 @@ const menu: Menu = {
             description: "Tostado en pan de salvado con jamón y queso",
             price: "$1890"
         },
-        {
-            title: "Tostado Miga",
-            price: "$1890"
-        },
+        
                {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
