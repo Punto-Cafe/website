@@ -183,31 +183,31 @@ const menu: Menu = {
         {
             title: "Agua",
             description: "Agua con o sin gas",
-            price: "$790",
+            price: "$940",
         },
         {
             title: "Agua saborizada",
             description: "Agua saborizada de pomelo, manzana, naranja",
-            price: "$950",
+            price: "$1100",
         }, 
          {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero",
-            price: "$950",
+            price: "$1100",
         },
          {
              title: "Exprimido",
-             price: "$1300",
+             price: "$1600",
          },
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
-            price: "$1100",
+            price: "$1400",
         }, 
          {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$1300",
+            price: "$1600",
         },
          
         
