@@ -200,6 +200,43 @@ const menu: Menu = {
          
         
   ],
+    "kiosco": [ 
+        {
+            title: "alfajor triple",
+            price: "$1000"
+        },
+        {
+            title: "alfajor fantoche (blanco o negro)",
+            price: "$700"
+        },
+       
+        {
+            title: "alfajor simple block",
+            price: "$700"
+        },
+        
+        {
+            title: "alfajor lulemmu (arroz)",
+            price: "$700"
+        },
+        {
+            title: "pastillas D.r.f",
+            price: "$220"
+        },  
+                {
+            title: "caramelos masticables y gomitas",
+            price: "$400"
+        },
+        {
+            title: "caramelos sugus",
+            price: "$50 c/U"
+        },
+                {
+            title: "barrita de cereal ",
+            price: "$500"
+        },
+       ],
+    
     "Cafetería Para Llevar": [
         {
             title: "Café",
@@ -217,7 +254,7 @@ const menu: Menu = {
             title: "Lágrima",
             price: "$990"
         },        
-       ]
+       ],
 }
 
 export default menu
