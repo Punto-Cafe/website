@@ -17,56 +17,56 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$920"
+            price: "$990"
         },
         {
             title: "Café cortado",
-            price: "$920"
+            price: "$990"
         },
         {
             title: "Lágrima",
-            price: "$920"
+            price: "$990"
         },
         {
             title: "Café con leche",
-            price: "$1020"
+            price: "$1090"
         },
         {
             title: "Café doble",
-            price: "$1020"
+            price: "$1090"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$1020"
+            price: "$1090"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$1020"
+            price: "$1090"
         }, 
         {
             title: "Submarino",
-            price: "$1290"
+            price: "$1360"
         },
         {
             title: "Capuchino",
-            price: "$1290"
+            price: "$1360"
         },
         
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés y canela",
-            price: "$1620"
+            price: "$1860"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María y cacao",
-            price: "$1790"
+            price: "$1860"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú y coco rayado",
-            price: "$1790"
+            price: "$1860"
         },
         {
             title: "Té",
@@ -78,7 +78,7 @@ const menu: Menu = {
         },
         {
             title: "Chocolatada",
-            price: "$1020"
+            price: "$1090"
         }
     ],
     Pastelería: [
@@ -116,19 +116,7 @@ const menu: Menu = {
             glutenFree: true,
             price: "$1500"
         },
-        {
-            title: "Medialunas x2",
-            description: "Medialuna dulce",
-            price: "1500",
-            glutenFree: true,
-        },
-                  {
-            title: "Mini Sacramento con jamon y queso",
-            description: "Sacramentitos con jamon y queso (pack de 2)",
-            price: "$2200",
-            glutenFree: true,
-        },
-     
+        
     ],
     Sandwiches: [
         
