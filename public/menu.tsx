@@ -17,99 +17,90 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$990"
+            price: "$1100"
         },
         {
             title: "Café cortado",
-            price: "$990"
+            price: "$1100"
         },
         {
             title: "Lágrima",
-            price: "$990"
+            price: "$1100"
         },
         {
             title: "Café con leche",
-            price: "$1090"
+            price: "$1300"
         },
         {
             title: "Café doble",
-            price: "$1090"
+            price: "$1300"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$1090"
+            price: "$1300"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$1090"
+            price: "$1300"
         }, 
         {
             title: "Submarino",
-            price: "$1360"
+            price: "$1600"
         },
         {
             title: "Capuchino",
-            price: "$1360"
+            price: "$1600"
         },
         
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés y canela",
-            price: "$1860"
+            price: "$2100"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María y cacao",
-            price: "$1860"
+            price: "$2100"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú y coco rayado",
-            price: "$1860"
+            price: "$2100"
         },
         {
             title: "Té",
-            price: "$790"
-        },
-        {
-            title: "Té con leche",
             price: "$890"
         },
         {
+            title: "Té con leche",
+            price: "$990"
+        },
+        {
             title: "Chocolatada",
-            price: "$1090"
+            price: "$1300"
         }
     ],
     Pastelería: [
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable y mermelada",
-            price: "1500"
+            price: "1700"
         },
         {
             title: "Medialuna",
-            price: "$450"
+            price: "$500"
         },
           {
             title: "Medialuna con jamon y queso",
-            price: "$580"
+            price: "$700"
         },
         {
             title: 'Tortas "Consultar" ',
-            description: "pasta frola $890 o ricota $1050"
+            description: "pasta frola $990 "
             
         },
-        {
-            title: "Brownie",
-            description: "Torta brownie con nueces",
-            price: "$1600"
-        },
-        {
-            title: "Brownie con Helado",
-            description: "Torta brownie con nueces servido con una bocha de helado de americana",
-            price: "$1800"
-        },
+       
         {
             title: "Tostadas",
             description: "Tostadas de pan con semillas con queso untable y mermelada",
@@ -123,45 +114,45 @@ const menu: Menu = {
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$1890"
+            price: "$2000"
         },
         
                {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $2200, mini árabe $1200"
+            price: "Árabe $2400, mini árabe $1400"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $2200, mini árabe $1200"
+            price: "árabe $2400, mini árabe $1400"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $2450, mini árabe $1450"
+            price: "árabe $2650, mini árabe $1650"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $2450 , mini árabe $1450"
+            price: "árabe $2650 , mini árabe $1650"
         },
        {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan lactal con semillas",
-            price: "$2200",
+            price: "$2400",
             glutenFree: true,
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en pan lactal con semillas",
-            price: "$2200",
+            price: "$2400",
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan lactal con semillas",
-            price: "$2450",
+            price: "$2650",
             glutenFree: true,
         },
         
