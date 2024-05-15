@@ -105,7 +105,7 @@ const menu: Menu = {
             title: "Tostadas",
             description: "Tostadas de pan  con queso untable y mermelada",
             glutenFree: "true",
-            price: "$1500"
+            price: "$1700"
         },
         
     ],
