@@ -231,11 +231,11 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café vaso grande",
-            price: "$1100"
+            price: "$1500"
         },
         {
             title: "Café vaso chico",
-            price: "$990"
+            price: "$1300"
         },
              
        ],
