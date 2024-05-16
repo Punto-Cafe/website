@@ -97,7 +97,7 @@ const menu: Menu = {
         },
         {
             title: 'Tortas "Consultar" ',
-            description: "pasta frola $990 "
+            description: "pasta frola $1200 "
             
         },
        
