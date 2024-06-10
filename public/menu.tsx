@@ -226,16 +226,20 @@ const menu: Menu = {
             title: "barrita de cereal ",
             price: "$500"
         },
+              {
+            title: "pancho ",
+            price: "$1500"
+        },
        ],
     
     "Cafetería Para Llevar": [
         {
             title: "Café vaso grande",
-            price: "$1500"
+            price: "$1800"
         },
         {
             title: "Café vaso chico",
-            price: "$1300"
+            price: "$1400"
         },
              
        ],
