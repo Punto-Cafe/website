@@ -17,56 +17,56 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$1100"
+            price: "$1300"
         },
         {
             title: "Café cortado",
-            price: "$1100"
+            price: "$1300"
         },
         {
             title: "Lágrima",
-            price: "$1100"
+            price: "$1300"
         },
         {
             title: "Café con leche",
-            price: "$1300"
+            price: "$1500"
         },
         {
             title: "Café doble",
-            price: "$1300"
+            price: "$1500"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$1300"
+            price: "$1500"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$1300"
+            price: "$1500"
         }, 
         {
             title: "Submarino",
-            price: "$1600"
+            price: "$1800"
         },
         {
             title: "Capuchino",
-            price: "$1600"
+            price: "$1800"
         },
         
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés y canela",
-            price: "$2100"
+            price: "$2300"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María y cacao",
-            price: "$2100"
+            price: "$2300"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú y coco rayado",
-            price: "$2100"
+            price: "$2300"
         },
         {
             title: "Té",
@@ -78,7 +78,7 @@ const menu: Menu = {
         },
         {
             title: "Chocolatada",
-            price: "$1300"
+            price: "$1500"
         }
     ],
     Pastelería: [
@@ -167,16 +167,16 @@ const menu: Menu = {
         {
             title: "Agua saborizada",
             description: "Agua saborizada de pomelo, manzana, naranja",
-            price: "$1200",
+            price: "$1300",
         }, 
          {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero",
-            price: "$1200",
+            price: "$1300",
         },
          {
              title: "Exprimido",
-             price: "$1800",
+             price: "$1900",
          },
         {
             title: "Licuado al agua",
@@ -186,7 +186,7 @@ const menu: Menu = {
          {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$1800",
+            price: "$1900",
         },
          
         
