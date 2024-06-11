@@ -85,7 +85,7 @@ const menu: Menu = {
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable y mermelada",
-            price: "1700"
+            price: "1900"
         },
         {
             title: "Medialuna",
@@ -114,45 +114,45 @@ const menu: Menu = {
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$2000"
+            price: "$2200"
         },
         
                {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $2400, mini árabe $1400"
+            price: "Árabe $2600, mini árabe $1600"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $2400, mini árabe $1400"
+            price: "árabe $2600, mini árabe $1600"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $2650, mini árabe $1650"
+            price: "árabe $2850, mini árabe $1850"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $2650 , mini árabe $1650"
+            price: "árabe $2850 , mini árabe $1850"
         },
        {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en pan lactal con semillas",
-            price: "$2400",
+            price: "$2600",
             glutenFree: true,
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en pan lactal con semillas",
-            price: "$2400",
+            price: "$2600",
             glutenFree: true,
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en pan lactal con semillas",
-            price: "$2650",
+            price: "$2850",
             glutenFree: true,
         },
         
@@ -162,7 +162,7 @@ const menu: Menu = {
         {
             title: "Agua",
             description: "Agua con o sin gas",
-            price: "$990",
+            price: "$1100",
         },
         {
             title: "Agua saborizada",
