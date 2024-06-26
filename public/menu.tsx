@@ -202,7 +202,7 @@ const menu: Menu = {
         },
        
         {
-            title: "alfajor simple block",
+            title: "alfajor simple ",
             price: "$700"
         },
         
@@ -213,6 +213,10 @@ const menu: Menu = {
         {
             title: "pastillas D.r.f",
             price: "$220"
+        },
+        {
+            title: "topline menta",
+            price: "$300"
         },  
                 {
             title: "caramelos masticables y gomitas",
