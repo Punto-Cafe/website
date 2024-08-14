@@ -193,22 +193,22 @@ const menu: Menu = {
   ],
     "kiosco": [ 
         {
-            title: "alfajor triple",
-            price: "$1000"
+            title: "alfajor triple o Alfajor rasta",
+            price: "$1100"
         },
         {
             title: "alfajor fantoche (blanco o negro)",
-            price: "$700"
+            price: "$800"
         },
        
         {
             title: "alfajor simple ",
-            price: "$700"
+            price: "$800"
         },
         
         {
             title: "alfajor lulemmu (arroz)",
-            price: "$700"
+            price: "$800"
         },
         {
             title: "pastillas D.r.f",
@@ -228,7 +228,7 @@ const menu: Menu = {
         },
                 {
             title: "barrita de cereal ",
-            price: "$500"
+            price: "$600"
         },
               {
             title: "pancho ",
