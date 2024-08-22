@@ -193,8 +193,12 @@ const menu: Menu = {
   ],
     "kiosco": [ 
         {
-            title: "alfajor triple o Alfajor rasta",
+            title: "alfajor triple ",
             price: "$1100"
+        },
+          {
+            title: "alfajor rasta ",
+            price: "$1200"
         },
         {
             title: "alfajor fantoche (blanco o negro)",
