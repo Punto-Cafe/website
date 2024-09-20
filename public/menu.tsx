@@ -194,7 +194,7 @@ const menu: Menu = {
         },
         {
             title: "pastillas D.r.f",
-            price: "$220"
+            price: "$250"
         },
         {
             title: "topline menta",
@@ -202,7 +202,7 @@ const menu: Menu = {
         },  
                 {
             title: "caramelos masticables y gomitas",
-            price: "$400"
+            price: "$600"
         },
         {
             title: "caramelos sugus",
@@ -210,7 +210,7 @@ const menu: Menu = {
         },
                 {
             title: "barrita de cereal ",
-            price: "$600"
+            price: "$620"
         },
               {
             title: "pancho ",
