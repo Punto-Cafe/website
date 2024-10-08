@@ -210,7 +210,7 @@ const menu: Menu = {
         },
                 {
             title: "barrita de cereal ",
-            price: "$620"
+            price: "$600"
         },
               {
             title: "pancho ",
