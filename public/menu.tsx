@@ -216,6 +216,22 @@ const menu: Menu = {
             title: "pancho ",
             price: "$1500"
         },
+             {
+            title: "Helado alfajor ",
+            price: "$1000"
+        },
+             {
+            title: "Copa Jamaica ",
+            price: "$950"
+        },
+             {
+            title: "Palito Bombón ",
+            price: "$950"
+        },
+             {
+            title: "Helado de agua ",
+            price: "$350"
+        },
        ],
     
     "Cafetería Para Llevar": [
