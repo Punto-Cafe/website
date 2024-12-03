@@ -17,83 +17,83 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$1500"
+            price: "$1650"
         },
         {
             title: "Café cortado",
-            price: "$1500"
+            price: "$1650"
         },
         {
             title: "Lágrima",
-            price: "$1500"
+            price: "$1650"
         },
         {
             title: "Café con leche",
-            price: "$1700"
+            price: "$1870"
         },
         {
             title: "Café doble",
-            price: "$1700"
+            price: "$1870"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$1700"
+            price: "$1870"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$1700"
+            price: "$1870"
         }, 
         {
             title: "Submarino",
-            price: "$2000"
+            price: "$2200"
         },
         {
             title: "Capuchino",
-            price: "$2000"
+            price: "$2200"
         },
         
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés y canela",
-            price: "$2500"
+            price: "$2750"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María y cacao",
-            price: "$2500"
+            price: "$2750"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú y coco rayado",
-            price: "$2500"
+            price: "$2750"
         },
         {
             title: "Té",
-            price: "$900"
+            price: "$1000"
         },
         {
             title: "Té con leche",
-            price: "$1100"
+            price: "$1200"
         },
         {
             title: "Chocolatada",
-            price: "$1700"
+            price: "$1870"
         }
     ],
     Pastelería: [
         {
             title: "Tostadas",
             description: "Tostadas de pan de salvado con queso untable y mermelada",
-            price: "1900"
+            price: "2000"
         },
         {
             title: "Medialuna",
-            price: "$800"
+            price: "$900"
         },
           {
             title: "Medialuna con jamon y queso",
-            price: "$1000"
+            price: "$1100"
         },
         {
             title: 'Tortas "Consultar" ',
@@ -109,18 +109,18 @@ const menu: Menu = {
         {
             title: "Tostado de molde",
             description: "Tostado en pan de salvado con jamón y queso",
-            price: "$2400"
+            price: "$2700"
         },
         
                {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe, sacramento o mini árabe",
-            price: "Árabe $2800, mini árabe $1800"
+            price: "Árabe $3000, mini árabe $2000"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $2800, mini árabe $1800"
+            price: "árabe $3000, mini árabe $2000"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
@@ -130,7 +130,7 @@ const menu: Menu = {
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe, sacramento o mini árabe",
-            price: "árabe $3100 , mini árabe $2100"
+            price: "árabe $3500 , mini árabe $2500"
         },
        
         
@@ -140,17 +140,17 @@ const menu: Menu = {
         {
             title: "Agua",
             description: "Agua con o sin gas",
-            price: "$1200",
+            price: "$1300",
         },
         {
             title: "Agua saborizada",
             description: "Agua saborizada de pomelo, manzana, naranja",
-            price: "$1500",
+            price: "$1600",
         }, 
          {
             title: "Gaseosa",
             description: "Gaseosa Coca Cola, Coca Cola Zero",
-            price: "$1500",
+            price: "$1600",
         },
          {
              title: "Exprimido",
@@ -159,12 +159,12 @@ const menu: Menu = {
         {
             title: "Licuado al agua",
             description: "Licuado al agua con frutas de estación (500cc)",
-            price: "$1600",
+            price: "$1800",
         }, 
          {
             title: "Licuado con leche",
             description: "Licuado con leche con frutas de estación (500cc)",
-            price: "$1900",
+            price: "$2000",
         },
          
         
@@ -237,11 +237,11 @@ const menu: Menu = {
     "Cafetería Para Llevar": [
         {
             title: "Café vaso grande",
-            price: "$2000"
+            price: "$2200"
         },
         {
             title: "Café vaso chico",
-            price: "$1600"
+            price: "$1800"
         },
              
        ],
