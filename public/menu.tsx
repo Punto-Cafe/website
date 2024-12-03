@@ -125,7 +125,7 @@ const menu: Menu = {
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $3100, mini árabe $2100"
+            price: "árabe $3500, mini árabe $2500"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
