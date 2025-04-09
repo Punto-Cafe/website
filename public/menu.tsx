@@ -117,32 +117,29 @@ const menu: Menu = {
         },
            {
             title: "Sandwich de miga jamón y queso x3",
-            price: "3300"
+            price: "4500"
         },
         
-           {
-            title: "Pebete de jamón y queso x3",
-            price: "2300"
-        },
+          
                {
             title: "Sandwich de jamón y queso",
             description: "Sandwich de jamón y queso en árabe o mini árabe",
-            price: "Árabe $3700, mini árabe $2300"
+            price: "Árabe $3900, mini árabe $2300"
         },
         {
             title: "Sandwich de queso y tomate",
             description: "Sandwich de queso y tomate en árabe o mini árabe",
-            price: "árabe $3700, mini árabe $2300"
+            price: "árabe $3900, mini árabe $2300"
         },
         {
             title: "Sandwich de jamón, queso y tomate",
             description: "Sandwich de jamón, queso y tomate en árabe, sacramento o mini árabe",
-            price: "árabe $4200, mini árabe $2900"
+            price: "árabe $4500, mini árabe $2900"
         },
         {
             title: "Sandwich de queso, tomate y aceitunas negras",
             description: "Sandwich de queso, tomate y aceitunas negras en árabe o mini árabe",
-            price: "árabe $4200 , mini árabe $2900"
+            price: "árabe $4500 , mini árabe $2900"
         },
        
         
