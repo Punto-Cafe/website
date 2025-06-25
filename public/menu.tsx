@@ -17,64 +17,61 @@ const menu: Menu = {
     cafetería: [
         {
             title: "Café",
-            price: "$1700"
+            price: "$2000"
         },
         {
             title: "Café cortado",
-            price: "$1700"
+            price: "$2000"
         },
         {
             title: "Lágrima",
-            price: "$1700"
+            price: "$2000"
         },
         {
             title: "Café con leche",
-            price: "$1900"
+            price: "$2000"
         },
         {
             title: "Café doble",
-            price: "$1900"
+            price: "$2500"
         },
         {
             title: "Café Con dulce de leche",
-            price: "$1900"
+            price: "$2500"
         },
         {
             title: "Café de menta",
             description: "café con leche con menta y chocolate",
-            price: "$1900"
+            price: "$2500"
         }, 
-        {
-            title: "Submarino",
-            price: "$2200"
-        },
+        
         {
             title: "Capuchino",
-            price: "$2200"
+            price: "$3000"
         },
         
         {
             title: "Café irlandés",
             description: "Café con Whisky Irlandés y canela",
-            price: "$2900"
+            price: "$3500"
         },
         {
             title: "Café Calypso",
             description: "Café con Tía María y cacao",
-            price: "$2900"
+            price: "$3500"
         },
         {
             title: "Café Malibú",
             description: "Café con Malibú y coco rayado",
-            price: "$2900"
+            price: "$23500"
         },
         {
             title: "Té",
-            price: "$1000"
+            price: "$1200"
         },
         {
             title: "Té con leche",
-            price: "$1200"
+            price: "$1500"
         },
         {
             title: "Chocolatada",
